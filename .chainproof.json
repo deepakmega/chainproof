@@ -1,0 +1,3810 @@
+{
+  "binaries": [
+    {
+      "path": "/usr/bin/uux",
+      "hash": "2002e4b6dcac89e67523f263842970674f3607cd202e81674899f2160470587a"
+    },
+    {
+      "path": "/usr/bin/cpan",
+      "hash": "5bd467ca17d612cde6d7c8fbac6fb06ccce58ca6259e06b91c79ed59b1b277a2"
+    },
+    {
+      "path": "/usr/bin/loads.d",
+      "hash": "8e3b439715a266d19bef28969d22eb738923f6f210b677ed63c63437b34989e3"
+    },
+    {
+      "path": "/usr/bin/write",
+      "hash": "05c29900b06c70a55ea5b5bc3f7d706895791f9cd023205301f83c4c2139c7b9"
+    },
+    {
+      "path": "/usr/bin/indent",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/bzip2recover",
+      "hash": "2102c294119f49c6b7fb8db2aaefd3bbce882f94bc081c065663d4bd53d7d74a"
+    },
+    {
+      "path": "/usr/bin/hdiutil",
+      "hash": "8169fa4f07a06de0bd53c3ac8ee00652066a45fb8a1e5b24914563ef054041cb"
+    },
+    {
+      "path": "/usr/bin/lockf",
+      "hash": "d08f52609175cc0b2c75c3d32384057c90cfedcccf601c8b467116da351cb98e"
+    },
+    {
+      "path": "/usr/bin/top",
+      "hash": "9356a9b4cf82917baa2e1a979c78ae5082181ff7274edc14fbc257bc8e4601e2"
+    },
+    {
+      "path": "/usr/bin/gktool",
+      "hash": "8f9123c9f73c7b78572b2767976f490d123a4bc73df448e62fa3d76a5ab9bba4"
+    },
+    {
+      "path": "/usr/bin/tee",
+      "hash": "56108d1685e0e8fa577eb511909f3102cefebd2f109c23bc5f235476b3b0de24"
+    },
+    {
+      "path": "/usr/bin/tidy_changelog",
+      "hash": "61d412947d8cf474f45d05b6486469e16908c3f9225fa4d7a3857ac003e9a943"
+    },
+    {
+      "path": "/usr/bin/xip",
+      "hash": "967070d21da9e9e79842311d9c3f251b19f4b45b051333d1c41465bf69de6eba"
+    },
+    {
+      "path": "/usr/bin/yapp",
+      "hash": "3c8d2cf925526f6a797ff56ecf617521fecd3c7a9c23ee59087c6032a5ede6d9"
+    },
+    {
+      "path": "/usr/bin/bzfgrep",
+      "hash": "76c174b94c1bff61f28bdc7f049930b46bcb92952496b7c8bec043e0523efe93"
+    },
+    {
+      "path": "/usr/bin/snmptranslate",
+      "hash": "8f84e2ef5e6c0fdfa640092bed186ed87078dcaa918808067440bd81a131c2a8"
+    },
+    {
+      "path": "/usr/bin/split",
+      "hash": "a40851eec4d89459576786a2107fac92fd2461b516adb127ff5bf48965425fe5"
+    },
+    {
+      "path": "/usr/bin/chsh",
+      "hash": "9c0700d478b2d4c273bd02322228368f955d7a627d5a59a3d07d28afbe4f2d6f"
+    },
+    {
+      "path": "/usr/bin/xml2man",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/man",
+      "hash": "68620fe5df0d69a5fbba7b906f94fe7b8f2c0bdfd274826e34d2928b172cfff3"
+    },
+    {
+      "path": "/usr/bin/lpoptions",
+      "hash": "1f3869c082aaa9e716af56bfa538dc35de3f03e0e719259a15157ebe86474ed8"
+    },
+    {
+      "path": "/usr/bin/tabs",
+      "hash": "faa47152f9f22a14f37d0e9a4a797c6ce641142321f26ccc96e75c3972876054"
+    },
+    {
+      "path": "/usr/bin/lsvfs",
+      "hash": "6c33a8aa3555b9253929ccb25e966182eaf859b59a1225c4a1605054a04a64ed"
+    },
+    {
+      "path": "/usr/bin/zgrep",
+      "hash": "76c174b94c1bff61f28bdc7f049930b46bcb92952496b7c8bec043e0523efe93"
+    },
+    {
+      "path": "/usr/bin/dbiprof",
+      "hash": "c04e74db63e4ae6ae4419f026b09016675a574388c56eceb13cb9b946db48110"
+    },
+    {
+      "path": "/usr/bin/zmore",
+      "hash": "42cc7949055cccfe696a345de469655e1cd754838127ac5327c13abeeb1eceb6"
+    },
+    {
+      "path": "/usr/bin/gcov",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/parldyn5.34",
+      "hash": "792dd1a11fe43f476e60f9eeffc5aade5d14d1490022fc3b9866592c4bac3a26"
+    },
+    {
+      "path": "/usr/bin/vim",
+      "hash": "f46c98bee40c47856a5d3278983f33c8d292b9dfd260e3f5a4e93b92e4fef223"
+    },
+    {
+      "path": "/usr/bin/mandoc_soelim",
+      "hash": "b75a420d51af2184c69cae33d92a035eba10c4444b23db8447664fadfb96f1f7"
+    },
+    {
+      "path": "/usr/bin/bzmore",
+      "hash": "836536d4c7469788c730355d59f8ae8d16ba07cb0754174878d99ed90f04448d"
+    },
+    {
+      "path": "/usr/bin/dyld_info",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/package-stash-conflicts",
+      "hash": "ff82854efd3f5a21d0790847457987eab734470e0653e3835b6f1a0eec52493d"
+    },
+    {
+      "path": "/usr/bin/cancel",
+      "hash": "51b683df318ba4947398af66492017fdf8b1b628ed79c7e0599ecfaf069ed8e5"
+    },
+    {
+      "path": "/usr/bin/apply",
+      "hash": "0e05743aaf33044ad9dedbab3e89d5c4ea036af7c28f5178806019b4592852ff"
+    },
+    {
+      "path": "/usr/bin/bzgrep",
+      "hash": "7290aefe24a12ba49faafcfba134a6a5279ba19a38005807f9ee6cad8c05ce04"
+    },
+    {
+      "path": "/usr/bin/umask",
+      "hash": "6b84445c57c474382fd4083629b8308d189e10a9a2bbd66c06b288e56b5b08a8"
+    },
+    {
+      "path": "/usr/bin/g++",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/libtool",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/unalias",
+      "hash": "6b84445c57c474382fd4083629b8308d189e10a9a2bbd66c06b288e56b5b08a8"
+    },
+    {
+      "path": "/usr/bin/scandeps5.34.pl",
+      "hash": "ea20a8dd6e100b7f8c8a1b2e1b3bd59d19ad4601333e8ac6880857dfd3c757ee"
+    },
+    {
+      "path": "/usr/bin/mp2bug",
+      "hash": "776c3694de9b908cf7447cfe2264782f2222134a4b59c5ce722b32063d2ae7c9"
+    },
+    {
+      "path": "/usr/bin/viewdiagnostic",
+      "hash": "58dcbbb7ac09b90c3dd094a013db1ba5b1b8ae4a0acbeb3ba0888f1e13c1920e"
+    },
+    {
+      "path": "/usr/bin/mkfifo",
+      "hash": "a3a9892773febcb8829d2883e21a628faf28fc5c2faa82e2d947a6c43eace173"
+    },
+    {
+      "path": "/usr/bin/toe",
+      "hash": "a37f34a47d1884a1af1023c3bf9a46b0a18277275867279358908742fa1ff193"
+    },
+    {
+      "path": "/usr/bin/hexdump",
+      "hash": "383637acdb8887c2f34e4c917d41c1c294af8f9dc9e27f498944b075a3457d41"
+    },
+    {
+      "path": "/usr/bin/Rez",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/cap_mkdb",
+      "hash": "11d1c1d9cc517e1b660fa609418ede2ba334e9aee2cd4583817ddb005e155e82"
+    },
+    {
+      "path": "/usr/bin/xprotect",
+      "hash": "7839da6ca6a780e3b9e7f85f5fd2dfe6b76ce23896cf0d871c020197b9d56bc2"
+    },
+    {
+      "path": "/usr/bin/ictool",
+      "hash": "3cdacfccb9593a6fa562b6f411c59cc1e2a1a0c13742e3021ee0bb8d4e23d79d"
+    },
+    {
+      "path": "/usr/bin/cmp",
+      "hash": "6845d6f5dd9492bd22631806a5f0d16085b94894c448ce14f08b13057c116a05"
+    },
+    {
+      "path": "/usr/bin/syscallbypid.d",
+      "hash": "835280e73a6e37e7e8078dc74032d9b0aa5a37568a083fa5b340f1a2a367a6bb"
+    },
+    {
+      "path": "/usr/bin/snmpset",
+      "hash": "b3a9e30499b2d442f51660eaea3ec2aedbcf34aff75b569b2754b3ef057da8be"
+    },
+    {
+      "path": "/usr/bin/locate",
+      "hash": "9ecdab50c97bedb281e7de8665d7babd5639845721b6e97119f1699bfa5321b4"
+    },
+    {
+      "path": "/usr/bin/trustcachectl",
+      "hash": "3dc2a9dcea3e8c1cc866b37eddd7d2c4f2f10ab7fa653b316c6f3d8ff49e4e02"
+    },
+    {
+      "path": "/usr/bin/afconvert",
+      "hash": "8f2ca2371924afca2eda6f213cffec22cff1d0ad4fefdab3e2ed53d56de52182"
+    },
+    {
+      "path": "/usr/bin/afclip",
+      "hash": "30d39977ecf38f8acf0f857801feacb4400ac20a63d0fbfc001ae33b49284603"
+    },
+    {
+      "path": "/usr/bin/bzegrep",
+      "hash": "76c174b94c1bff61f28bdc7f049930b46bcb92952496b7c8bec043e0523efe93"
+    },
+    {
+      "path": "/usr/bin/instmodsh",
+      "hash": "9a5b48f3e4b995051c6b02013017bfa166759ffd5e3f71cc2d146a845d871b3a"
+    },
+    {
+      "path": "/usr/bin/pl",
+      "hash": "5b2485993432be43d1089e50cc547fef1d715b7dc84fd543f7c16ac64c26216b"
+    },
+    {
+      "path": "/usr/bin/compress",
+      "hash": "c2e461b27668bd63c4cbd85649f7c4ceb63fc2447bf657d231e0d9fd4f42a055"
+    },
+    {
+      "path": "/usr/bin/fddist",
+      "hash": "bf47732741d915b83696d3b6e41ba508ac5677788dc34e269bd1a62d86a35771"
+    },
+    {
+      "path": "/usr/bin/db_upgrade",
+      "hash": "9b65daa73a243b4a14a3c12cd01c88e769cd1173bd2c86902fdc82f34957a220"
+    },
+    {
+      "path": "/usr/bin/diagnose-fu",
+      "hash": "73b89a7385a32b81b20fa1371324cc80ee92a82098e75e1cb13ac8d8a6d8d2d2"
+    },
+    {
+      "path": "/usr/bin/yamlpp-load-dump",
+      "hash": "ccaec425a9023731660406787a047a44143fe9ccc784679164ca163a96d39dbe"
+    },
+    {
+      "path": "/usr/bin/ctags",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/zdiff",
+      "hash": "7f061880585e93e99a52fe1ea18e6f1c179b6ec659992e67b5fe69ad50497065"
+    },
+    {
+      "path": "/usr/bin/yamlpp-parse-emit",
+      "hash": "a3a8f051081f184659e09650c6fa9aa8a2ef0962fac8022ccff5ff31bd9029e9"
+    },
+    {
+      "path": "/usr/bin/pathchk",
+      "hash": "f4343c030f9325c31bc85ce026d9edbaac42791f93e619d04fc3297e5df9951c"
+    },
+    {
+      "path": "/usr/bin/mesg",
+      "hash": "211144fc7f8a10ebb7371ff77caa61279d5a04535d32a03f073cf8d831b32c87"
+    },
+    {
+      "path": "/usr/bin/setregion",
+      "hash": "97f857f1bcf640a48be7026eababb962535e666458f28accb778ba8eaaa54d06"
+    },
+    {
+      "path": "/usr/bin/perlivp",
+      "hash": "52648a9dc5e72577dd1ac90b83a6a0fda95082811562e440cce7ff6079b9e060"
+    },
+    {
+      "path": "/usr/bin/streamzip5.34",
+      "hash": "1727ae821dc48649af305527da7b32d173fb322462bb911b460d7688e89b51d2"
+    },
+    {
+      "path": "/usr/bin/c++",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/pod2readme",
+      "hash": "ea8e86e9f0502cbddba9160d2ea094d400e76e48114ab924e2157bd73e4c16c0"
+    },
+    {
+      "path": "/usr/bin/pp",
+      "hash": "6ea1bc55f82e7954419024d3bad5cab16320de11eab91f40e514b342ae0abbce"
+    },
+    {
+      "path": "/usr/bin/iofileb.d",
+      "hash": "e12dcfee7ff96d55e47550e610ea06e38e14e2b5e643a15ec9165d8d03b2d38a"
+    },
+    {
+      "path": "/usr/bin/errinfo",
+      "hash": "dcd4797d8f30fb2df8613427cdc4743e470d349c4df843a87435f756f5590e6c"
+    },
+    {
+      "path": "/usr/bin/zipgrep",
+      "hash": "d077ccd18e5719776df7f06b667bda8f7547aa5c3b9cf174c0005608e9309bb8"
+    },
+    {
+      "path": "/usr/bin/pod2usage",
+      "hash": "6405327f3f8660ed89c068b760f61ffb9bd180e2997e9ba881be00f6989c6da3"
+    },
+    {
+      "path": "/usr/bin/alias",
+      "hash": "6b84445c57c474382fd4083629b8308d189e10a9a2bbd66c06b288e56b5b08a8"
+    },
+    {
+      "path": "/usr/bin/wait",
+      "hash": "6b84445c57c474382fd4083629b8308d189e10a9a2bbd66c06b288e56b5b08a8"
+    },
+    {
+      "path": "/usr/bin/bzdiff",
+      "hash": "1e9dd6afeae8b75c46c1a17377ba36a892677dc30d85c10474bf884cf745681b"
+    },
+    {
+      "path": "/usr/bin/unpack200",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/corelist",
+      "hash": "667bc0d6d8de3048ec84678355647805a9e1ecfc53169a780edbc49b5a0da7b5"
+    },
+    {
+      "path": "/usr/bin/expand",
+      "hash": "627001f209a891ff6dd10bac7fd654a1e41c1023c57a2a486c9fd128d93d1fe2"
+    },
+    {
+      "path": "/usr/bin/strings",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/lwp-dump5.34",
+      "hash": "004efec73f4759f18eef83db112a3215abe95fdb1b17f48a1e3e118de70ff4e0"
+    },
+    {
+      "path": "/usr/bin/dbiproxy5.34",
+      "hash": "8aa25769727a81d870e5ca2de70f04840567a91082d75de6781a320a0e79cb81"
+    },
+    {
+      "path": "/usr/bin/wall",
+      "hash": "3ca2cfb74afe1d8a99faf7855adde819e5fb63a96f27634ef8b579ab2749b714"
+    },
+    {
+      "path": "/usr/bin/brctl",
+      "hash": "99749f0d1b8c4c8038cbb73aca593ce38d675d7055cca6e08096b72a5a507f60"
+    },
+    {
+      "path": "/usr/bin/yapp5.34",
+      "hash": "3c8d2cf925526f6a797ff56ecf617521fecd3c7a9c23ee59087c6032a5ede6d9"
+    },
+    {
+      "path": "/usr/bin/gm4",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/db_hotbackup",
+      "hash": "6d81eb75fe6bd4f5e91ac1f15bc6ca8ac36f9ac1cd55fd687ba542118bb9f5f3"
+    },
+    {
+      "path": "/usr/bin/auvaltool",
+      "hash": "b13bf56b74ea8645a600ffe6e53c726e8aaa0d7e8e7ced069bc144edfc87494e"
+    },
+    {
+      "path": "/usr/bin/applesingle",
+      "hash": "0c6b25a6f152914241918f44c56d14147ff07d51e94f6cee688b0188472d2a73"
+    },
+    {
+      "path": "/usr/bin/clang",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/ibtool",
+      "hash": "3cdacfccb9593a6fa562b6f411c59cc1e2a1a0c13742e3021ee0bb8d4e23d79d"
+    },
+    {
+      "path": "/usr/bin/tty",
+      "hash": "da916a28f13896e28090e55e682da4e0e0e1fe49539753580c42731b7f7845bb"
+    },
+    {
+      "path": "/usr/bin/demandoc",
+      "hash": "cc592e7d3895e498499bd8ae9d9859bc5497403cfe833a7b8e2d5b498d3d72a2"
+    },
+    {
+      "path": "/usr/bin/git-receive-pack",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/pkill",
+      "hash": "cb57d870ae56004a83dd76fdcad4da4aec36afbbb565a168a9484d59f9a4e772"
+    },
+    {
+      "path": "/usr/bin/cups-config",
+      "hash": "8dd7d495c58a886f82051f3a3d2c0a10adbd3dda5510eaa6db365026cd995ff9"
+    },
+    {
+      "path": "/usr/bin/piconv5.34",
+      "hash": "0ddc062a05a184cc3f89338a44437364a29811b420f3660c13915bddfdc3a689"
+    },
+    {
+      "path": "/usr/bin/basename",
+      "hash": "b5cab220e5c29d6d5f61c4786b2af338ba8f5a0039ceed6dc5fabe6109a223a6"
+    },
+    {
+      "path": "/usr/bin/objdump",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/install",
+      "hash": "8e3f05b179693aa5c5d0ffc303bbcbebd70deaa6aae67e511d525cc9e5d21208"
+    },
+    {
+      "path": "/usr/bin/c99",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/desdp",
+      "hash": "3cdacfccb9593a6fa562b6f411c59cc1e2a1a0c13742e3021ee0bb8d4e23d79d"
+    },
+    {
+      "path": "/usr/bin/binhex",
+      "hash": "15eab163886696d8c3b4143df0096ae186cd8a41c404650e951be12587bb4e81"
+    },
+    {
+      "path": "/usr/bin/perlbug5.34",
+      "hash": "f5212840d01517bbef5bed855a7027c57a3ab6abe2d11c519cb51ec112fe0d96"
+    },
+    {
+      "path": "/usr/bin/lsmp",
+      "hash": "078d2c78b54a4a8e8609917f1849bf79e518eca58026804043851c48252d94cd"
+    },
+    {
+      "path": "/usr/bin/xmllint",
+      "hash": "8d39e2be180200d66c043b2cc923cfa93720f8da497c1dbc35f54c9b71f81872"
+    },
+    {
+      "path": "/usr/bin/yamlpp-highlight",
+      "hash": "bc51800ccb35f2591d5bf35a2dcc3e8ffb581e652f832177cddac2419654fd80"
+    },
+    {
+      "path": "/usr/bin/ipcount5.34",
+      "hash": "0df287f05e50f4f48089250fed928f7e234d87e5d35a9d13a681c032440aff5f"
+    },
+    {
+      "path": "/usr/bin/last",
+      "hash": "cdb09386adcd2dc1599dcffa98a8a427bac10a3520465c30cfacfb3a1e50bb10"
+    },
+    {
+      "path": "/usr/bin/vm_stat",
+      "hash": "f591ca2512bdf9b7a19e9fcb3c497fa446b5817f957b5dd618c04e3d747aef58"
+    },
+    {
+      "path": "/usr/bin/syslog",
+      "hash": "126a014c6f10164a5419d8c94cacd3813f22ec5d1ff30b0248b54c3ed3c6f6bb"
+    },
+    {
+      "path": "/usr/bin/net-snmp-cert",
+      "hash": "ae7a28ce7a81d860992c9d430ec9df0eabc2a0d93315323d841250a8776a8705"
+    },
+    {
+      "path": "/usr/bin/nslookup",
+      "hash": "509ab56bd7c4920991bfda27bf7ac38eb4ec35ef464a69a2f8ad67b67ba9ff52"
+    },
+    {
+      "path": "/usr/bin/usdextract",
+      "hash": "bb58e64ad8cbab45a901894c7209e61e55f3592a75afac7367702e05716f91e1"
+    },
+    {
+      "path": "/usr/bin/topsyscall",
+      "hash": "62ad3a62ba9291d67a2890c56b526383ef6e1edd51fe8ee65b6cc253176bd8c7"
+    },
+    {
+      "path": "/usr/bin/libnetcfg",
+      "hash": "78bab79d103416b08a51e070bf599101a897f3753ff729bd3bafd4068f5b2564"
+    },
+    {
+      "path": "/usr/bin/c++filt",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/avbdiagnose",
+      "hash": "99fea35ec68d21900e40fb4fd0a732b367aee2025ee35a6538a7ebbc5e121be9"
+    },
+    {
+      "path": "/usr/bin/nice",
+      "hash": "a589574773d1737ed627cf8f3823d58546f288d1361af4d1abe99649aeb76907"
+    },
+    {
+      "path": "/usr/bin/xcscontrol",
+      "hash": "3cdacfccb9593a6fa562b6f411c59cc1e2a1a0c13742e3021ee0bb8d4e23d79d"
+    },
+    {
+      "path": "/usr/bin/truncate",
+      "hash": "f0e17646f050a3a1df7883e5303746f8b28bbc90c060f53813c621ae8e38fe60"
+    },
+    {
+      "path": "/usr/bin/calendar",
+      "hash": "13c6f1a3bbbde912dee2a28035acfa9bb9656fff26afb92d567790eea1aaca04"
+    },
+    {
+      "path": "/usr/bin/locale",
+      "hash": "23526dc534dd4a0fda4de0d3d237fde0a1124cfb810843297dbce0525720530b"
+    },
+    {
+      "path": "/usr/bin/strip",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/symbolscache",
+      "hash": "61f8993863e99d89c51cea1da31c65c5891ffc25c19da52e2810ce7a2126a910"
+    },
+    {
+      "path": "/usr/bin/usdtree",
+      "hash": "d0a906bab7fdde557309fc0c9c6f1c859ed6b3a0ef2cf00bca6ecad59121facf"
+    },
+    {
+      "path": "/usr/bin/trace",
+      "hash": "384d4e0f1b73b119f34e13119a9641280f09245f1c8bc294c1276f090418a50d"
+    },
+    {
+      "path": "/usr/bin/tops",
+      "hash": "8e615ce2b5e80fd68d99db0b00a51d4782ddfac6a94eca680597db8a067796a0"
+    },
+    {
+      "path": "/usr/bin/lprm",
+      "hash": "ec1ee750c3574547275585a2252f32b006db50b780496c4a572fe677289a3c47"
+    },
+    {
+      "path": "/usr/bin/tiffutil",
+      "hash": "13e7837d00966c5a1b02d4bc4f7c3dd3e0970c36e334fad2c0f2f5327f797baa"
+    },
+    {
+      "path": "/usr/bin/du",
+      "hash": "fc4ebf22526ccb00ec3b57b89a2fc80a2c46bb4904ac5ade9dc8cc842091b0ee"
+    },
+    {
+      "path": "/usr/bin/debinhex5.34.pl",
+      "hash": "08a3b551dc20711f4198edf762e63a3e87c914ca01a8df510ac5f19516f26f96"
+    },
+    {
+      "path": "/usr/bin/diff3",
+      "hash": "65af5886ef6c6843261a24b6df9dc50fdfdc1c44338ca8dda9cd8d3e1d660e96"
+    },
+    {
+      "path": "/usr/bin/cupstestppd",
+      "hash": "dc03a56b630e32f444b1fd8cb6fde04ba5748dd1a90cfeccf88adcfba8c85c56"
+    },
+    {
+      "path": "/usr/bin/sw_vers",
+      "hash": "550c28e60b427d5320fedf5e4b36b9db0e5efaac89356c0167ffd5569791279c"
+    },
+    {
+      "path": "/usr/bin/fs_usage",
+      "hash": "568277e16b7a0976ff3b8134e996b29189c0b0df6b74f208de1b28a3b85cd077"
+    },
+    {
+      "path": "/usr/bin/host",
+      "hash": "c33a6d25bf8b4f048764d13ee9144ca1e3883eb63462c33863cd17115639160b"
+    },
+    {
+      "path": "/usr/bin/jarsigner",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/app-sso",
+      "hash": "bd0c90d9e827722655ad722ce514fe53e9631f2c1ca7f23376db8faae78f4992"
+    },
+    {
+      "path": "/usr/bin/devmodectl",
+      "hash": "aa83580c10732737426334adf8ff5409cc6607ca302f7ef1ed14310988d61827"
+    },
+    {
+      "path": "/usr/bin/nscurl",
+      "hash": "21eecee8b2446cf110aa604b60f7cbf6b2ab3e6ab8248037585dc0a0064051b4"
+    },
+    {
+      "path": "/usr/bin/logger",
+      "hash": "2892e1a26c67b4efdcdc9506352dab845b584be8e4aed8f3e952322fc336764b"
+    },
+    {
+      "path": "/usr/bin/caffeinate",
+      "hash": "c06b8dd56b66f911e8d450f69ee6035067f8b6f2f0b245905007811f1a9fd835"
+    },
+    {
+      "path": "/usr/bin/say",
+      "hash": "4d46bec89f9bf22fa12419409769824c501641b6a7b01cb084b81d8519cfa5cd"
+    },
+    {
+      "path": "/usr/bin/net-snmp-create-v3-user",
+      "hash": "47c43d3797352ed2ffca1aac5cb6392960b047c009df03bc1677344c85c9a178"
+    },
+    {
+      "path": "/usr/bin/zipdetails5.34",
+      "hash": "9fa9f28c16d9932340b1888b910dfb28d038b11ab29d88f76f3bf1a7856dfd37"
+    },
+    {
+      "path": "/usr/bin/config_data5.34",
+      "hash": "14aa8185619efad9e1cdc5e0e29e881724b9f3582e9ee8dab1ab3618c945433a"
+    },
+    {
+      "path": "/usr/bin/plutil",
+      "hash": "945984852f47bf85f5b60416efc0acd9b82f6352232732903764723a1731a3e2"
+    },
+    {
+      "path": "/usr/bin/python3",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/avbutil",
+      "hash": "a01bfaf8e19ceace22a65d2124a3511a0b3a6a5eec59aa07259e06f37ffcd592"
+    },
+    {
+      "path": "/usr/bin/xcode-select",
+      "hash": "8c56ef3d0126eb1d807068c0a24665ca9e1e2e57b93c8d3d94487de945001338"
+    },
+    {
+      "path": "/usr/bin/powermetrics",
+      "hash": "89459157e7936af8f2d761fd2f67291693fce14e0ecefbc73d2075bf46e9bfbe"
+    },
+    {
+      "path": "/usr/bin/encguess5.34",
+      "hash": "e9559b2c204e4064c0a7a591e7c878271eaaab1d3b81b09c468405b51f7f7d0e"
+    },
+    {
+      "path": "/usr/bin/moose-outdated",
+      "hash": "359597af7b1c1691ec0502184b006aa5ffa49915be504284d1383bcca11a4e96"
+    },
+    {
+      "path": "/usr/bin/net-server",
+      "hash": "4ab31c4201d4d47e600b93585820f32bf008bd1a1f06fd6e107fdb951d2a9c76"
+    },
+    {
+      "path": "/usr/bin/ldapmodify",
+      "hash": "217b09287febb6c14fa99be88a75836b67f03e95ba826082e02930b0aa9eb358"
+    },
+    {
+      "path": "/usr/bin/iofile.d",
+      "hash": "efed1db8e872eb8f8f4b196af33ef35984cb539e8b6a6e12dedbb80d9595b0f0"
+    },
+    {
+      "path": "/usr/bin/join",
+      "hash": "f8e8fafa29f1218694854ee19c9aeff42b8ba4349bd65bafcce0beb722d84a2d"
+    },
+    {
+      "path": "/usr/bin/SafeEjectGPU",
+      "hash": "9723c505917deaf550475c2fd041860845ebf2136a6b8ee9cba6021a511c7c40"
+    },
+    {
+      "path": "/usr/bin/snmpdelta",
+      "hash": "9fee7f6bd5ce3f3ee2348bca00ef0fea9fd8bf1e7694bc9ab7e9afce76fa77d9"
+    },
+    {
+      "path": "/usr/bin/ssh-keyscan",
+      "hash": "453444bbd3bc39249032ec1f06f2966344515127d724c553a2308c6e81f7750f"
+    },
+    {
+      "path": "/usr/bin/renice",
+      "hash": "b0d8bd453259cdc057f05823e7e126eef5d63923dd38d31b0b8133c6d02483ae"
+    },
+    {
+      "path": "/usr/bin/xxd",
+      "hash": "f504afebe9e5b68ebfa2358bb1ab920429a25bf793e05f223a3517717be651ba"
+    },
+    {
+      "path": "/usr/bin/clangd",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/scandeps.pl",
+      "hash": "ea20a8dd6e100b7f8c8a1b2e1b3bd59d19ad4601333e8ac6880857dfd3c757ee"
+    },
+    {
+      "path": "/usr/bin/nettop",
+      "hash": "f5b4f6c98a7e5cf9f447f14cb76c1f3b85c8b67884d9a5aa1b9bc42a7580211e"
+    },
+    {
+      "path": "/usr/bin/ppdmerge",
+      "hash": "5c2102970d17c49f9693c16cf2fdadc9d90a283a59aafe3a5c8af5e35391a477"
+    },
+    {
+      "path": "/usr/bin/snmpconf",
+      "hash": "d5c5dcc5e23f332a846938c7e98701e94f920e317c3aa04db8e75daa3734d2f4"
+    },
+    {
+      "path": "/usr/bin/xsltproc",
+      "hash": "1b5e44bae2894f3d1cd246d399a622855847a29f339f27781598c89ac5d81c69"
+    },
+    {
+      "path": "/usr/bin/osascript",
+      "hash": "f7c9b718ca0863e8f04444ca451047ae638306ea6ff9f22bc27d5053a0f2a43c"
+    },
+    {
+      "path": "/usr/bin/iotop",
+      "hash": "b7b27f113199546a5fb53e5c83fe28275ff2c7e325800e17d41aa9ddd9a78cb7"
+    },
+    {
+      "path": "/usr/bin/lex",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/encguess",
+      "hash": "e9559b2c204e4064c0a7a591e7c878271eaaab1d3b81b09c468405b51f7f7d0e"
+    },
+    {
+      "path": "/usr/bin/eyapp5.34",
+      "hash": "d0efb50ae3e3b28d0197cb01a4b8e21081c18b9a3fb97032362a5857c3d6954d"
+    },
+    {
+      "path": "/usr/bin/ctf_insert",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/csplit",
+      "hash": "3986e3823729e77c514952656718c0a670698056735d5d7d93ba1cac62930421"
+    },
+    {
+      "path": "/usr/bin/swift-inspect",
+      "hash": "71de5b5f00a8209de5c886766ad171c41a9756f9233fdc5be88841c843418272"
+    },
+    {
+      "path": "/usr/bin/iconv",
+      "hash": "a36b347d4f6f2c95990b1aa7b959c4332add72105973054f258b8fd44b1006fb"
+    },
+    {
+      "path": "/usr/bin/lsbom",
+      "hash": "1d77990077c48b0c053eaa49372f787128c4c2aa0ed5fcd06d71030d42a6d623"
+    },
+    {
+      "path": "/usr/bin/pbcopy",
+      "hash": "b4ef4ad475b876a30fa92212ff38ce9f83bc2f5990dff7000d17687d33cc9591"
+    },
+    {
+      "path": "/usr/bin/sort",
+      "hash": "d3fc034bf3184d57ba18017e7b2941652fba370e9992428c232e15d2cab81741"
+    },
+    {
+      "path": "/usr/bin/xpath",
+      "hash": "f14deeff809883d1cff29914cdf36b3f3914e851afea53a3c7fbf7f7ae29e814"
+    },
+    {
+      "path": "/usr/bin/snmpdf",
+      "hash": "e330e41c71ae2df80f1c9ac2f902a080fc82ac9d9543772600a338d4cf5034e0"
+    },
+    {
+      "path": "/usr/bin/whoami",
+      "hash": "f6f5432c5634890ff6c2d238fd50296f141ff6224fabc113d170f6b7b9aee73c"
+    },
+    {
+      "path": "/usr/bin/sc_usage",
+      "hash": "3254b0c1a200df52ad8d79af674625824ec4025ad261b7a03a5df54a07cb5464"
+    },
+    {
+      "path": "/usr/bin/jot",
+      "hash": "8f90e7539fb35617318a298f4562979de2bd797da8ccb4b52298e4764bec1f33"
+    },
+    {
+      "path": "/usr/bin/ocspcheck",
+      "hash": "1b2c835f206f7c5d10f033787de5c02fd5959ba1649ae532fd8ea0dd06d72470"
+    },
+    {
+      "path": "/usr/bin/mkbom",
+      "hash": "d68a2343a04e36987ca917a3da5fc49c30e40e7f51378fe076b44c1ddee074a6"
+    },
+    {
+      "path": "/usr/bin/ldapurl",
+      "hash": "897aab8c91767b8450352b89bebc04e25a3a23e6b914d5f417b08c4ee64120ad"
+    },
+    {
+      "path": "/usr/bin/json_xs",
+      "hash": "c0903b27ef64f0f42952c12ce1367dcd0beebb0dad84cb70a6e6681cf4ec9c0b"
+    },
+    {
+      "path": "/usr/bin/pkgbuild",
+      "hash": "5dc697a811067d98705eaab5c3424608c7d613635bc3c4943efa2cb38bd81f32"
+    },
+    {
+      "path": "/usr/bin/yamlpp-events",
+      "hash": "6705b4852310bd8309d3d85d594d04dd18105e7664b6a669d0f3afc382a43424"
+    },
+    {
+      "path": "/usr/bin/cpuwalk.d",
+      "hash": "79aaef6adb28f07089db90852d83554dafb5cace8bc47528caa422e5957f9ff0"
+    },
+    {
+      "path": "/usr/bin/update_dyld_shared_cache",
+      "hash": "3f20aa840b7c5405291d53bb5091b4a502c322cb313bb23e8edb7178bed03e91"
+    },
+    {
+      "path": "/usr/bin/ldapmodrdn",
+      "hash": "bc4bc6d3dd75d6b27c145d0bade781dd5be32bd6a0d5efb7e7c67cfe1f587de9"
+    },
+    {
+      "path": "/usr/bin/systemextensionsctl",
+      "hash": "d41f60b4cf99a063d0eaf1664fbd538babe691fc657d79f0dd3de90e21a6eea1"
+    },
+    {
+      "path": "/usr/bin/file",
+      "hash": "235d37a333dbfdb3ed7782252a6f2c7f63ccee76f3babdf82fd7291f937385e1"
+    },
+    {
+      "path": "/usr/bin/db_printlog",
+      "hash": "0f6a1b45e62fdfc46995b157343a22efd40885bac665a5d428aa631d4c436b89"
+    },
+    {
+      "path": "/usr/bin/sourcekit-lsp",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/podchecker5.34",
+      "hash": "b41c90733b7f4051dbe82d289177add630133f0679660fbfa3f3051ecd309dbb"
+    },
+    {
+      "path": "/usr/bin/hash",
+      "hash": "6b84445c57c474382fd4083629b8308d189e10a9a2bbd66c06b288e56b5b08a8"
+    },
+    {
+      "path": "/usr/bin/bc",
+      "hash": "b9a4962d09b616675bbc4ef9a0cccd18ada81166e48d9fbf60b70c0c29c2ae49"
+    },
+    {
+      "path": "/usr/bin/mg",
+      "hash": "5e388973f28c91368821c4e171cc620d08951e0fd72a2b0babead56ae463461e"
+    },
+    {
+      "path": "/usr/bin/sfltool",
+      "hash": "bca3dbab2baeca40d9565747d464f8ebb755ac34cdbb7008f23b58eebd3b48ce"
+    },
+    {
+      "path": "/usr/bin/less",
+      "hash": "ab38a777402a1c8f45a3964d381d0a74a363cbfc6f0debb0b66e8fac7de6891e"
+    },
+    {
+      "path": "/usr/bin/bunzip2",
+      "hash": "8da4d460440e876d81875d814f3a0eead38ba0fb94fef81a9be87560a897dee1"
+    },
+    {
+      "path": "/usr/bin/touch",
+      "hash": "1cd905f28998419ec1b1c146891ca9b68e12a447cb138211d341860c27825020"
+    },
+    {
+      "path": "/usr/bin/rmic",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/dispqlen.d",
+      "hash": "930ca5cbf8507ecdb174af750390524964cfe31a92407801dbca1445d25bfbc4"
+    },
+    {
+      "path": "/usr/bin/dddiagnose",
+      "hash": "7989046fe5c43a1ce89fa8f6a40021416544ff9288bf0fd0feb4021984b85573"
+    },
+    {
+      "path": "/usr/bin/db_archive",
+      "hash": "2469fdf059bafc2594d4326d6ee9026b28c5cdc4c37f325d6344c6d7acc5c950"
+    },
+    {
+      "path": "/usr/bin/getopt",
+      "hash": "541e33aafa77e62682e6c5f9e6f0bcb8dc53bc22ca92c65eb8a4e75816b16ff7"
+    },
+    {
+      "path": "/usr/bin/krb5-config",
+      "hash": "b00da7d1f636acb90e8c0d5f5087c9c6d2f00a0a46d2a205c3fb181d0f1bf74d"
+    },
+    {
+      "path": "/usr/bin/security",
+      "hash": "b34019a4f349f7d9ff4abaddf361be2ce17a7e09122facbefe823512de37219a"
+    },
+    {
+      "path": "/usr/bin/perlthanks5.34",
+      "hash": "f5212840d01517bbef5bed855a7027c57a3ab6abe2d11c519cb51ec112fe0d96"
+    },
+    {
+      "path": "/usr/bin/hiutil",
+      "hash": "0f0673168e2c03a1ad522bfc509b1510b2287af9db42518d47a5d8944605bb92"
+    },
+    {
+      "path": "/usr/bin/json_xs5.34",
+      "hash": "c0903b27ef64f0f42952c12ce1367dcd0beebb0dad84cb70a6e6681cf4ec9c0b"
+    },
+    {
+      "path": "/usr/bin/pip3",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/pod2man5.34",
+      "hash": "787b44d170897cf7cd25055fd3262c3172fc0a08061c520992197544d9e21195"
+    },
+    {
+      "path": "/usr/bin/lastwords",
+      "hash": "182c96b711a24ca1c2ce7116d0aff67d77008e6ff3f1e6e7bb957d896fc681b3"
+    },
+    {
+      "path": "/usr/bin/rmid",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/sed",
+      "hash": "7d55290bec3e8ba74898a796e801e351eb9a41ab29e1bf1a88222b1f23042fe6"
+    },
+    {
+      "path": "/usr/bin/ld",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/awk",
+      "hash": "e4e2720fc85c9c639ce850972f1614a9979a69ad08e7fa53e62055943c1cb399"
+    },
+    {
+      "path": "/usr/bin/ip2cc",
+      "hash": "0fd8d15f5d6cb69b7cab075e5fb80528c6e6af4b539ba9e81f0d79c90c0a6872"
+    },
+    {
+      "path": "/usr/bin/syscallbyproc.d",
+      "hash": "ba0d6ccbb97da87700fae385026ef9f869d297309a17371fc38ee19e55c316b6"
+    },
+    {
+      "path": "/usr/bin/umtool",
+      "hash": "13a7a0bbc928489a25cd88c89d58485b832c46f6d17619f1f4f7c32fed44c832"
+    },
+    {
+      "path": "/usr/bin/snmpstatus",
+      "hash": "06d0d9a4806b0eb100115c0a40c5414eb12ff68e5d152d183d0f1617d075359e"
+    },
+    {
+      "path": "/usr/bin/uudecode",
+      "hash": "eaecfab0417938c863f902bb95303f839ea99b9a2c7fc60b93208c0f10e1ff4b"
+    },
+    {
+      "path": "/usr/bin/psm",
+      "hash": "be4486f44c535b065333d911d337baa46170b49b3fd450b7b92848f7ea6322b1"
+    },
+    {
+      "path": "/usr/bin/fmt",
+      "hash": "2514ec233a7868e2fb3e7aa910603187d7e67f20b164f6a7105bbf92fe85c4ca"
+    },
+    {
+      "path": "/usr/bin/zless",
+      "hash": "42cc7949055cccfe696a345de469655e1cd754838127ac5327c13abeeb1eceb6"
+    },
+    {
+      "path": "/usr/bin/enc2xs5.34",
+      "hash": "615127ec2411508184464b6062ce80d09dfa8f9bbd83fb2650618c289251a0cf"
+    },
+    {
+      "path": "/usr/bin/xslt-config",
+      "hash": "00343a7fed457938c8f748bd6a23ac8744a8e93d5ba0ce608531c2153d64633d"
+    },
+    {
+      "path": "/usr/bin/sdef",
+      "hash": "3cdacfccb9593a6fa562b6f411c59cc1e2a1a0c13742e3021ee0bb8d4e23d79d"
+    },
+    {
+      "path": "/usr/bin/ncctl",
+      "hash": "f61423fbf2c97467c99ce44e27092393ae82d193afece91e41da5efeb8386ed9"
+    },
+    {
+      "path": "/usr/bin/pod2text",
+      "hash": "3d1271451a600279fe8aaa0e7d58d7fdf4385a8fb025962709db1d540376a0a5"
+    },
+    {
+      "path": "/usr/bin/bashbug",
+      "hash": "6a9cd35ef35efb059f7ad33b34cf6e5d673a9a5f3b278873eddd03aeae801d21"
+    },
+    {
+      "path": "/usr/bin/mail",
+      "hash": "f5f6c260b33733ab3ecbfca4913cec4fafcf8de4e37fe6539f09b760802c7a07"
+    },
+    {
+      "path": "/usr/bin/chpass",
+      "hash": "8a56151ef1f6866c81966b2d4b2dcbe8b9709204ecbdbd25387e679ea97f73e6"
+    },
+    {
+      "path": "/usr/bin/sips",
+      "hash": "d3b3984792f416e06f74058444cdd7b48abc0100a126da1837f58ef8d0b7b815"
+    },
+    {
+      "path": "/usr/bin/par5.34.pl",
+      "hash": "d7a45a3a6034767634ec006b9b4369567ac9c08b54e78f1a2f4632b33546ebf9"
+    },
+    {
+      "path": "/usr/bin/xcrun",
+      "hash": "2e5dddd18439b303f5056ed2b468060dcdc0fd79bca96e6010af389c34072064"
+    },
+    {
+      "path": "/usr/bin/lldb",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/chfn",
+      "hash": "9c0700d478b2d4c273bd02322228368f955d7a627d5a59a3d07d28afbe4f2d6f"
+    },
+    {
+      "path": "/usr/bin/ipcount",
+      "hash": "0df287f05e50f4f48089250fed928f7e234d87e5d35a9d13a681c032440aff5f"
+    },
+    {
+      "path": "/usr/bin/lam",
+      "hash": "bd5fba1b16bae028e7f871e6a7786763c8e9bb22ab83625112a626d1a1b42d44"
+    },
+    {
+      "path": "/usr/bin/ipptool",
+      "hash": "4a9230dde31eba07d3a1f2ae3c24b1567170c6b0148d0f8a2ec9be93fb3de6ec"
+    },
+    {
+      "path": "/usr/bin/irb",
+      "hash": "85a00eed91c49f09a341899d64752b3c7f58d25dbb437f052c6e52e82677d9ce"
+    },
+    {
+      "path": "/usr/bin/ptardiff",
+      "hash": "1d7d45bd4f48409a479886e6cfb6e3e8093fea89b10ce906d399484d92a86cc0"
+    },
+    {
+      "path": "/usr/bin/sysdiagnose",
+      "hash": "636371d7803fef2f38e87b8312e0f2de2df6d3270405838dd0b4eafb0829f0f4"
+    },
+    {
+      "path": "/usr/bin/logname",
+      "hash": "29ee63b862a7ec3c60153025992278b2f99241248f836c7db3776406b25f9db5"
+    },
+    {
+      "path": "/usr/bin/tset",
+      "hash": "f14e5444e2a60da84a69f5ea43a06672f67c843d8203314af98ea98f99e60ba9"
+    },
+    {
+      "path": "/usr/bin/chgrp",
+      "hash": "cae60b6eb2cb4a7ea8c317c2613a3c9cbd984c88a21094874136068803b751ee"
+    },
+    {
+      "path": "/usr/bin/cu",
+      "hash": "7a6929f746fcfd772e4077be84dba2e5a2a1530a8d23fc38a2364af04e58e8a3"
+    },
+    {
+      "path": "/usr/bin/printenv",
+      "hash": "0fb1f058caf109d0290333ebddbbfebbb3dd59a7bedc8bc200c854c9f3a665bd"
+    },
+    {
+      "path": "/usr/bin/unvis",
+      "hash": "bbcca209f852bb10f96f22281f5d154ccf2e98a8bbc688c2de229ae622cf6b2b"
+    },
+    {
+      "path": "/usr/bin/atq",
+      "hash": "9297aa428daf61d6b7f42c90651be871b3548ce9d897edd968c2cd70b2247fe9"
+    },
+    {
+      "path": "/usr/bin/seq",
+      "hash": "bfc58faf6d5cd0d0e8591cc24fb905c312c2b9d830ebab9e34dcdf4591da2042"
+    },
+    {
+      "path": "/usr/bin/fc",
+      "hash": "6b84445c57c474382fd4083629b8308d189e10a9a2bbd66c06b288e56b5b08a8"
+    },
+    {
+      "path": "/usr/bin/AssetCacheManagerUtil",
+      "hash": "1500a336e5a3a43e24c1e842e8045ff944518c1b89e8ba390876c8619144cd4d"
+    },
+    {
+      "path": "/usr/bin/xgettext5.34.pl",
+      "hash": "b0b5c73f216eefd70c71320fffd36aacfa341aa5370f38b98733c26f48b2cfce"
+    },
+    {
+      "path": "/usr/bin/jdb",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/uname",
+      "hash": "31fcdeec52458a51c4190da09680107553973b2d7b5745053ab1b5aef84b9269"
+    },
+    {
+      "path": "/usr/bin/hpmdiagnose",
+      "hash": "fa7754b8c573e7b3a8acd0529d500d2ae521292da207285a98f5bfbe92d31a07"
+    },
+    {
+      "path": "/usr/bin/timer_analyser.d",
+      "hash": "8e3b77a770f23ac5cd1d9fbf2f5dfd8ab47be651dcab04db93525ecb93b29581"
+    },
+    {
+      "path": "/usr/bin/jstack",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/parl",
+      "hash": "533efa5cdefb7bf731c4b22748ad1d56d6dbb3997700baebe37f99e0d9603cf5"
+    },
+    {
+      "path": "/usr/bin/unzip",
+      "hash": "2f85f6463d7ccbb013c3db8349573c3ce9328196b8f919777cf0d9e13bd19969"
+    },
+    {
+      "path": "/usr/bin/db_stat",
+      "hash": "9c81974acfaf347b50e2851bad1628db983455208e5aa9e175b2b435ce43b557"
+    },
+    {
+      "path": "/usr/bin/rmiregistry",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/json_pp",
+      "hash": "b336e50dc789c31cbd7b0f467d05e0d91188d06c7c27aa4009b904af8c6a4091"
+    },
+    {
+      "path": "/usr/bin/test-yaml",
+      "hash": "8155e2a7c0019c54ef27353ca6b860324cd81a872af4e28bed13a47dc6bc1d8b"
+    },
+    {
+      "path": "/usr/bin/zprint",
+      "hash": "6aef7b0287efc10065732612ff059fc7cbe1ca476b8263dfcb650303a87a367b"
+    },
+    {
+      "path": "/usr/bin/kinit",
+      "hash": "988f9d05903d08ebae87b9fdadb318d37bddccc001bf9c28ec8a18cabb6c8f55"
+    },
+    {
+      "path": "/usr/bin/mib2c",
+      "hash": "ee1e51ec9e19ae3159edfc2ef3497480479d9c20285f1e4f9b218f8e52df9c90"
+    },
+    {
+      "path": "/usr/bin/od",
+      "hash": "383637acdb8887c2f34e4c917d41c1c294af8f9dc9e27f498944b075a3457d41"
+    },
+    {
+      "path": "/usr/bin/bsdtar",
+      "hash": "465aa6ae11e635dea208c0a24f16d1a1236a71fc4e143dbf1967426e649758d9"
+    },
+    {
+      "path": "/usr/bin/perl",
+      "hash": "06961dfa54b98498a3ac9269e5ea4e1d7715908a75543f4f0e9de0e74329375c"
+    },
+    {
+      "path": "/usr/bin/findrule",
+      "hash": "90792a4e693674f127e276235220d887deed9232832fce3bded53ca6956af8da"
+    },
+    {
+      "path": "/usr/bin/tbtdiagnose",
+      "hash": "7e80eaf20d171478e2379b3e65a20a234ff79f1ebe158c9f22ecc67f61adec6d"
+    },
+    {
+      "path": "/usr/bin/mcxquery",
+      "hash": "e833fc2b3f7517accc644e4ae5a79c357ea3c806ddeee1fa5b55fe89785c22ce"
+    },
+    {
+      "path": "/usr/bin/lwp-download",
+      "hash": "65a46edaa5fac626957eb6c6d5f81a71e3e6ee7d29ed8891f00b228d2e4c5131"
+    },
+    {
+      "path": "/usr/bin/ppdpo",
+      "hash": "545ca6fa6860b165dd0d89a9c43c3fce2f71fa317aad5d389bcfd688cdf98858"
+    },
+    {
+      "path": "/usr/bin/crontab",
+      "hash": "21a436dd1fd6a55d14039d4fd7ede70d572b102bce3ee06d2f530b461a8edb98"
+    },
+    {
+      "path": "/usr/bin/kextutil",
+      "hash": "3bdc24b0c2aee142ba3eb314ab601e32ef52c43749a8e16de37ae351225538e6"
+    },
+    {
+      "path": "/usr/bin/bzcat",
+      "hash": "8da4d460440e876d81875d814f3a0eead38ba0fb94fef81a9be87560a897dee1"
+    },
+    {
+      "path": "/usr/bin/dbicadmin",
+      "hash": "d1e82a8d91f93bbc2f9283fc57886c0cea79a625382d443a36546e6dd4458fe8"
+    },
+    {
+      "path": "/usr/bin/perlbug",
+      "hash": "f5212840d01517bbef5bed855a7027c57a3ab6abe2d11c519cb51ec112fe0d96"
+    },
+    {
+      "path": "/usr/bin/modelmanagerdump",
+      "hash": "e90fe8445b70d3bd1a3ccbf6cf0091a8edac6953fb8d3a7825dc03de7d677422"
+    },
+    {
+      "path": "/usr/bin/footprint",
+      "hash": "9181382b11694ee48ffd6c55ae2324cdd0f2a4ea010c56b3f8631e3ead5f7ce2"
+    },
+    {
+      "path": "/usr/bin/lsappinfo",
+      "hash": "7b924dc997abb8dfa2e95958442e974d41c3a1474a1ac9fd07bdfb2aeb5c57b4"
+    },
+    {
+      "path": "/usr/bin/lwp-download5.34",
+      "hash": "65a46edaa5fac626957eb6c6d5f81a71e3e6ee7d29ed8891f00b228d2e4c5131"
+    },
+    {
+      "path": "/usr/bin/db_load",
+      "hash": "d592cac534a101ba774c492d7c04a5e5601502b88ef193c2202da7d239197b24"
+    },
+    {
+      "path": "/usr/bin/piconv",
+      "hash": "0ddc062a05a184cc3f89338a44437364a29811b420f3660c13915bddfdc3a689"
+    },
+    {
+      "path": "/usr/bin/read",
+      "hash": "6b84445c57c474382fd4083629b8308d189e10a9a2bbd66c06b288e56b5b08a8"
+    },
+    {
+      "path": "/usr/bin/snmpusm",
+      "hash": "1bef724eb71e660b0d749a01e3438b4620fb6e661cc7793a62dca158c1a11983"
+    },
+    {
+      "path": "/usr/bin/tkpp5.34",
+      "hash": "1f3f06428752b942d5b9df4bac6b057206dfd0af41f5a3ddefc683c5585c45e6"
+    },
+    {
+      "path": "/usr/bin/test-yaml5.34",
+      "hash": "8155e2a7c0019c54ef27353ca6b860324cd81a872af4e28bed13a47dc6bc1d8b"
+    },
+    {
+      "path": "/usr/bin/execsnoop",
+      "hash": "9851abb21662bf54016969d9ed0a31f1d50f61def637062e24d24c87b572c9bf"
+    },
+    {
+      "path": "/usr/bin/pagesize",
+      "hash": "05dc80d630b0362da628298ac1e76cdf74d31b396c5baf595a7e9e6139660b7f"
+    },
+    {
+      "path": "/usr/bin/lp",
+      "hash": "b449ee9cb11085d56c2614b149c0bfeba7050991a7e20f40912fb643df46e1ce"
+    },
+    {
+      "path": "/usr/bin/base64",
+      "hash": "eaecfab0417938c863f902bb95303f839ea99b9a2c7fc60b93208c0f10e1ff4b"
+    },
+    {
+      "path": "/usr/bin/ptargrep",
+      "hash": "0bca747354107929ecefbab2a8128923763bfa622124e20a1194c7f8a914a20f"
+    },
+    {
+      "path": "/usr/bin/jar",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/h2ph",
+      "hash": "86c19c01835bba602e1e954e48b69846286c9deaf453ea30d63d72190832bdb0"
+    },
+    {
+      "path": "/usr/bin/readlink",
+      "hash": "eb472cd514a511d553713e945f0a6a07ae8eb83d5d237bbd437adb8deb375cb6"
+    },
+    {
+      "path": "/usr/bin/opensnoop",
+      "hash": "e08cbbc9833a4b66ebcc5795c438f0a4fdd1bd5f20d921e4e582e86afbc12d8c"
+    },
+    {
+      "path": "/usr/bin/rake",
+      "hash": "cd2bf63b396edffd4448d01c9a7b294b05eb28b386f2b08c3429e54630566e32"
+    },
+    {
+      "path": "/usr/bin/jcmd",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/dmc",
+      "hash": "d3e0ec90f382e770afc05e154db22bda5c81f066c2b7b93ef5f3904b55954972"
+    },
+    {
+      "path": "/usr/bin/vimtutor",
+      "hash": "49e44dec64221b5087e9ad3caa7f67bb96ba623c830f2d6d813a22a3319a4485"
+    },
+    {
+      "path": "/usr/bin/prove5.34",
+      "hash": "616af4c61030f3282766a6c0651d0c117e6bf42587c81061c28c1a8dbca2021c"
+    },
+    {
+      "path": "/usr/bin/spfquery5.34",
+      "hash": "90d9607c491886cf9278b58f67c9a42524d9ebbb10ebf5e36388bac950409fd3"
+    },
+    {
+      "path": "/usr/bin/perlivp5.34",
+      "hash": "52648a9dc5e72577dd1ac90b83a6a0fda95082811562e440cce7ff6079b9e060"
+    },
+    {
+      "path": "/usr/bin/iperf3-darwin",
+      "hash": "dfa406d563ab402fabbe2b6c5a584a0250ff346a6cccab47b5367b5535cc3447"
+    },
+    {
+      "path": "/usr/bin/prove",
+      "hash": "616af4c61030f3282766a6c0651d0c117e6bf42587c81061c28c1a8dbca2021c"
+    },
+    {
+      "path": "/usr/bin/newproc.d",
+      "hash": "92cc78f3fc3bc21ba55ec370124365ec14fce5eb0d507fd635c60fe66f220a40"
+    },
+    {
+      "path": "/usr/bin/gencat",
+      "hash": "dbfa7be8ccd9fac013eba6f0751197a2f4671f7e70c6acb5ae4b2a3d71a8a444"
+    },
+    {
+      "path": "/usr/bin/mdutil",
+      "hash": "e635e89dbe2326a184b7c9196e2c92df3cee68c4079ecbb14c1c6766fbd6f182"
+    },
+    {
+      "path": "/usr/bin/znew",
+      "hash": "d43c1618b1d7d66cfdeab0025ef0c3cc904e8596f637cebd855e3f6944858407"
+    },
+    {
+      "path": "/usr/bin/podchecker",
+      "hash": "b41c90733b7f4051dbe82d289177add630133f0679660fbfa3f3051ecd309dbb"
+    },
+    {
+      "path": "/usr/bin/mcxrefresh",
+      "hash": "8de3a87287c03a226c8972a040e1239e8307f963e886f6926adb8af395e476c5"
+    },
+    {
+      "path": "/usr/bin/colrm",
+      "hash": "be46acf0f0e707156d4013318b9bdd5ca8ede02a2addac6fbd17f9d97de9d811"
+    },
+    {
+      "path": "/usr/bin/dbilogstrip",
+      "hash": "4b46e7e537324240ac89528e597485ad060cd70d1a5b6dfeec14b1ef3fdd0373"
+    },
+    {
+      "path": "/usr/bin/pagestuff",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/crlrefresh",
+      "hash": "b45e73e5a96f75cca52c4910fa9593cefaa57b57a3d6ac199a7c4ca909239f01"
+    },
+    {
+      "path": "/usr/bin/headerdoc2html",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/jrunscript",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/pp5.34",
+      "hash": "6ea1bc55f82e7954419024d3bad5cab16320de11eab91f40e514b342ae0abbce"
+    },
+    {
+      "path": "/usr/bin/filtercalltree",
+      "hash": "6613fb5fbec0eb1a977a0f2713e365bf7487a3e01760748b8b3879acf3504323"
+    },
+    {
+      "path": "/usr/bin/afhash",
+      "hash": "070c493700ac669d25d663e3b72b1a9f11bfad3dfb7ce8c8040c3ee8f9cd79d4"
+    },
+    {
+      "path": "/usr/bin/sandbox-exec",
+      "hash": "f3162ae11789a5b296bb3850d493c33ddd52053a03f984b2c4bc34004f4fee99"
+    },
+    {
+      "path": "/usr/bin/snmpvacm",
+      "hash": "e1fd3fe0a76fdc11ea059e817423784ac289ab143b417ceb2f7561599b2e593e"
+    },
+    {
+      "path": "/usr/bin/stapler",
+      "hash": "3cdacfccb9593a6fa562b6f411c59cc1e2a1a0c13742e3021ee0bb8d4e23d79d"
+    },
+    {
+      "path": "/usr/bin/codecctl",
+      "hash": "edd0918e374c2a39c40f4bed3e8991788d60d3872d1aabb127403c322bb84127"
+    },
+    {
+      "path": "/usr/bin/sftp",
+      "hash": "b86818abb45a601603d1dc574ba3f543bb8b6b653c0178751385c96d73dd6514"
+    },
+    {
+      "path": "/usr/bin/wc",
+      "hash": "8fb3fc714c250b3908551b8572190c46977ee0f595cde5d2aecb7c58631eb05b"
+    },
+    {
+      "path": "/usr/bin/jps",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/rsync",
+      "hash": "7a94e8a7473ba5f1e910a4b252719c6dea65603a364b34a73d815d493812d1b3"
+    },
+    {
+      "path": "/usr/bin/osacompile",
+      "hash": "23db436d68f7fce73d7ad3903715143a37fb6fef5e9a0bafabd96fdb744281b6"
+    },
+    {
+      "path": "/usr/bin/hdxml2manxml",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/gzcat",
+      "hash": "0adacd0cd979d830cb5e70d26638339be0746a3f22a832c181ece63751a72b30"
+    },
+    {
+      "path": "/usr/bin/delv",
+      "hash": "3b44ae8c4530301fec42b6af2a005f529bad2f226dad38f1801f13a54705d845"
+    },
+    {
+      "path": "/usr/bin/thermal",
+      "hash": "0cf7df751b756855839c106d45842846c392c145a8096319874f597644666900"
+    },
+    {
+      "path": "/usr/bin/pico",
+      "hash": "c95b05c291c24af29774b2a609683f2bf7618d8eb22fd610974709f14c9fa056"
+    },
+    {
+      "path": "/usr/bin/IOMFB_FDR_Loader",
+      "hash": "80aa68eb45762a36915e756ff5d7c8ff0751496ab890f04171b157b589d193a3"
+    },
+    {
+      "path": "/usr/bin/shasum",
+      "hash": "0812595f981a26f813d98dc380af14d4af427626c9339eda29eb849ae13de1e3"
+    },
+    {
+      "path": "/usr/bin/comm",
+      "hash": "f65404456e5294c8d8b986404ba03fb6205ad87722ed94fa717f3c4bd3702733"
+    },
+    {
+      "path": "/usr/bin/mpsgraphtool",
+      "hash": "ef702af710b1c447c761cd8a8c36ccd83d795c37d4f15d7c4a943c67cd83c179"
+    },
+    {
+      "path": "/usr/bin/resolveLinks",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/xcdebug",
+      "hash": "3cdacfccb9593a6fa562b6f411c59cc1e2a1a0c13742e3021ee0bb8d4e23d79d"
+    },
+    {
+      "path": "/usr/bin/lpq",
+      "hash": "567d929066a64793905589b1b68ec4996a4be1d7311153ad9a8b272c726d4167"
+    },
+    {
+      "path": "/usr/bin/java",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/bundle",
+      "hash": "42d1d8972a6d50cb03791c1a8d8564b74b26547c0e10c9a6c8e6f382fb5c6726"
+    },
+    {
+      "path": "/usr/bin/gzip",
+      "hash": "a1983798ab66b3431190813540cb0ec691dcb8ee28de36744b88fd8b91cd9fcd"
+    },
+    {
+      "path": "/usr/bin/zipcloak",
+      "hash": "c0a38e032a5d542fdf099f495ff83183b96d51750122d2e2ff72523628164a61"
+    },
+    {
+      "path": "/usr/bin/git-upload-archive",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/xml2-config",
+      "hash": "a7c2ffc34c6b9472c3e4ed9aa88c6e7ab8cf9252a1bd3c2844037be4545242cc"
+    },
+    {
+      "path": "/usr/bin/encode_keychange",
+      "hash": "0b70e5d1bb0746cacda49d572050e901da62cd23291511d1f19b71c205ac7c5d"
+    },
+    {
+      "path": "/usr/bin/traptoemail",
+      "hash": "ce171bbba79bbbd3dea99657b0eeb3017347dee88bb3baee5f4a5c756d349670"
+    },
+    {
+      "path": "/usr/bin/gcc",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/smbutil",
+      "hash": "26d73cd650b24f0d6de8bcbd70595ff8117bc946c0f3871959afd5458ac47b44"
+    },
+    {
+      "path": "/usr/bin/diff",
+      "hash": "a094b961e23ed24bbc548c530069396d84cbf02ca2b49795de2b3f799f446a79"
+    },
+    {
+      "path": "/usr/bin/ri",
+      "hash": "1f7baa2fd4bc85bf878209621c1ef5c9d3e1b1453c2d9cbde632a76827a1fcb6"
+    },
+    {
+      "path": "/usr/bin/agvtool",
+      "hash": "3cdacfccb9593a6fa562b6f411c59cc1e2a1a0c13742e3021ee0bb8d4e23d79d"
+    },
+    {
+      "path": "/usr/bin/cksum",
+      "hash": "7a62e2c31d043aab58ec6801c16e0f7c32b1159c9a60f8dcc10f0bc1f952784b"
+    },
+    {
+      "path": "/usr/bin/corelist5.34",
+      "hash": "667bc0d6d8de3048ec84678355647805a9e1ecfc53169a780edbc49b5a0da7b5"
+    },
+    {
+      "path": "/usr/bin/segedit",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/zipnote",
+      "hash": "e097e7a647dec391d779cd460ca22fd818a882e4fce2a00668bcb875406daed2"
+    },
+    {
+      "path": "/usr/bin/ptar",
+      "hash": "126fc379885309b476100e1150430256ab892c5b5650741af17478984a389758"
+    },
+    {
+      "path": "/usr/bin/printf",
+      "hash": "af29e018d50f6be199219ea70bd5cf4035581f1a6566a9df67c1b84c9b305181"
+    },
+    {
+      "path": "/usr/bin/iptab5.34",
+      "hash": "3ca1177514004f357d4a50bbf3a38b9a2653fae1f85e39373ea59edb294cb619"
+    },
+    {
+      "path": "/usr/bin/AssetCacheTetheratorUtil",
+      "hash": "f05cec21108699e9a8ad3aa96d835b040e000f87ddf3f224db4a2917cdbdc482"
+    },
+    {
+      "path": "/usr/bin/column",
+      "hash": "6686952e46cd214d1c372fe081e7e84523276d29d83a7c9a032653b46be07b4f"
+    },
+    {
+      "path": "/usr/bin/trash",
+      "hash": "560158a6570abe5e9717d9ce0bb225e439d41faef2a53e9a27a79cf9d2f9eb66"
+    },
+    {
+      "path": "/usr/bin/ldapexop",
+      "hash": "d0e9514875fcabbba90888e078fe49d034f9f2d691dc5daf3009c9a40058bb61"
+    },
+    {
+      "path": "/usr/bin/ippfind",
+      "hash": "b52f52b148aee42e2194b68783c85521339ee2bf640481c1db3e6ba0d3a676e0"
+    },
+    {
+      "path": "/usr/bin/syscallbysysc.d",
+      "hash": "bfd60c7352e12998014ee64212cb3ce9ca9b9db31639e9fb0301cad28c480421"
+    },
+    {
+      "path": "/usr/bin/groups",
+      "hash": "59dd0667525c42a34fbe0c6267032f192bd09fdaa3e0e3ad50176741cbd10550"
+    },
+    {
+      "path": "/usr/bin/dwarfdump",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/ppdc",
+      "hash": "3d570656f28c16171a524f1f4e8efb9c0a3eae6a7a5bab6360639142eaacef7e"
+    },
+    {
+      "path": "/usr/bin/rs",
+      "hash": "361281bd6749f3422f5c4fcf3096847973228f0c8df3c2d632b6f6eeb7da51ad"
+    },
+    {
+      "path": "/usr/bin/spfd",
+      "hash": "55e18bbafd7adbec2e581144af590f3b57e06cd2c2af0577668490b6e368766f"
+    },
+    {
+      "path": "/usr/bin/config_data",
+      "hash": "14aa8185619efad9e1cdc5e0e29e881724b9f3582e9ee8dab1ab3618c945433a"
+    },
+    {
+      "path": "/usr/bin/latency",
+      "hash": "5028fa060b56367d424baeb9a92deab189b0ab9a5b292a6b7ef0c6859518dd34"
+    },
+    {
+      "path": "/usr/bin/lsm",
+      "hash": "e547de472af046a9a6c38cc6054e42e95e26f68bd1bf64d9dcdef3e88d06e786"
+    },
+    {
+      "path": "/usr/bin/xar",
+      "hash": "098b2bce06a368db54f4919f4e8778489a9b776d94bb1c7048688b6fd1f3beed"
+    },
+    {
+      "path": "/usr/bin/db_codegen",
+      "hash": "4834a22e6ba8c8ee6d2d5840985511f75d92f11fe980bebf763a35a2310b56f9"
+    },
+    {
+      "path": "/usr/bin/lwp-request5.34",
+      "hash": "f8b9706e49fc6faabec5b8fe6f77b3d1665c5e11b84251029b83ac92d07e8dcd"
+    },
+    {
+      "path": "/usr/bin/dns-sd",
+      "hash": "90101a8918976bb7af0aa0ab29d78c59ef997a14342956f049b617ff967ebcc2"
+    },
+    {
+      "path": "/usr/bin/tab2space",
+      "hash": "5589217ef7ee71acfaf782b076104d57ad5004e00855c584bb5b565037a32677"
+    },
+    {
+      "path": "/usr/bin/avconvert",
+      "hash": "9219b2bbefe96fef5fd9c1a0d240e2267a2b32447bf1ea7c0718365a24f177d9"
+    },
+    {
+      "path": "/usr/bin/jhsdb",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/unzipsfx",
+      "hash": "be59a7dfff48db47a142cf58ee5d08a2af3f1ce343b29b1a66d40b8bec31878f"
+    },
+    {
+      "path": "/usr/bin/crc325.34",
+      "hash": "cd464864851972686712c93a3846a04a6ce2d4a62565cbbb2ebc325295b7283f"
+    },
+    {
+      "path": "/usr/bin/treereg",
+      "hash": "e913e0874501938f25c7ccef0948e02af1c8052e2be22fad6c4c3a8ced4131ba"
+    },
+    {
+      "path": "/usr/bin/spfd5.34",
+      "hash": "55e18bbafd7adbec2e581144af590f3b57e06cd2c2af0577668490b6e368766f"
+    },
+    {
+      "path": "/usr/bin/usdcat",
+      "hash": "2ef64d47a5ac1c8c8f5d960dc9e8fdd6c20363dfbced563d29c8bbae46c3be8a"
+    },
+    {
+      "path": "/usr/bin/csreq",
+      "hash": "117373556661ba0e6b19056b0e852b2bfe1e55771e1badb84018522789ef686f"
+    },
+    {
+      "path": "/usr/bin/whatis",
+      "hash": "68620fe5df0d69a5fbba7b906f94fe7b8f2c0bdfd274826e34d2928b172cfff3"
+    },
+    {
+      "path": "/usr/bin/gperf",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/iconutil",
+      "hash": "5cf782e0afdcdd8e9d3033773ae6965845634ae454d84378bb4439ed4a34c3c1"
+    },
+    {
+      "path": "/usr/bin/avbcapture",
+      "hash": "95d26acb9aa832b22df61346a192992a1d64480b8e637c52fefefbde8d57cc17"
+    },
+    {
+      "path": "/usr/bin/zipsplit",
+      "hash": "1079c33081d2717c21aad76f2f7a7f8983a4e6325fb6af248f809417a09557f1"
+    },
+    {
+      "path": "/usr/bin/lwp-dump",
+      "hash": "004efec73f4759f18eef83db112a3215abe95fdb1b17f48a1e3e118de70ff4e0"
+    },
+    {
+      "path": "/usr/bin/pathopens.d",
+      "hash": "5a5b116a36c7acb47155ab73c4734355cff311ee0103bdd0e6163f353fadfc23"
+    },
+    {
+      "path": "/usr/bin/tail",
+      "hash": "681451b67a3ae1bbea5d4a88786fa922a8a878647c9899485848a5ab85601597"
+    },
+    {
+      "path": "/usr/bin/whois",
+      "hash": "678b605bc79fa180ec9b3ccf730dc105fa25c81ad222ffd7ac33abe07488ac62"
+    },
+    {
+      "path": "/usr/bin/nsupdate",
+      "hash": "eef047357ec13a1acfa2ca1a95be4eed7f2066fb0bc32ce792cefd40c8e2be01"
+    },
+    {
+      "path": "/usr/bin/crc32",
+      "hash": "cd464864851972686712c93a3846a04a6ce2d4a62565cbbb2ebc325295b7283f"
+    },
+    {
+      "path": "/usr/bin/ldapdelete",
+      "hash": "b42b6e4a7b22cfb09cf642a2cd45a281010f58aeb7bd882d6c9ff0224637d4d4"
+    },
+    {
+      "path": "/usr/bin/grep",
+      "hash": "76c174b94c1bff61f28bdc7f049930b46bcb92952496b7c8bec043e0523efe93"
+    },
+    {
+      "path": "/usr/bin/macerror5.34",
+      "hash": "3e38831c2b8213877b4c0fafcd9bca4d14261e9ca2f643c7418cb737b024eb28"
+    },
+    {
+      "path": "/usr/bin/usdcrush",
+      "hash": "7c9f253762147f54c023e82f1a7951e475d72daf51b3be05fe82fa4666c1c3ef"
+    },
+    {
+      "path": "/usr/bin/rwbytype.d",
+      "hash": "d6c431ba36b2cdc7e1156cf221c2c459bcfcd89c23488553c9f5bfd4d1454b73"
+    },
+    {
+      "path": "/usr/bin/script",
+      "hash": "24eb6e2db60591c435afcde853a18caac9626047b1aceecda2a93e84cc0cccad"
+    },
+    {
+      "path": "/usr/bin/b64decode",
+      "hash": "6667f22e163035b05960079419338cc13e5b3e812b25f354ccb71a382979c9ec"
+    },
+    {
+      "path": "/usr/bin/vtool",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/more",
+      "hash": "ab38a777402a1c8f45a3964d381d0a74a363cbfc6f0debb0b66e8fac7de6891e"
+    },
+    {
+      "path": "/usr/bin/ldapwhoami",
+      "hash": "3903c756399bec1715945a18b0d39fccc1412be1d18a3b360f45722bb739aad4"
+    },
+    {
+      "path": "/usr/bin/pl2pm",
+      "hash": "a974fb9e86c76778a249d47d521e6fa1847c331ba3eea6e240a37b1c44dd6a1d"
+    },
+    {
+      "path": "/usr/bin/tkmib",
+      "hash": "ff75e1d0646a2d9e84c276dc396de591e245cf9589e583993c62520036aedbc7"
+    },
+    {
+      "path": "/usr/bin/cal",
+      "hash": "b3a6a287f17b780ab09aae69447afe6cf7893863d4442e69f1ca843a664eb4c7"
+    },
+    {
+      "path": "/usr/bin/afplay",
+      "hash": "ae368d98c8cefb23f9e9921b69159f455baecffac9ce267bb96c05008b1cbd88"
+    },
+    {
+      "path": "/usr/bin/time",
+      "hash": "62d4939b7309b35b1dab40a34d792a50f03a04822718462198cf25e95220722b"
+    },
+    {
+      "path": "/usr/bin/ssh-agent",
+      "hash": "888e1495b789be1b9784ff0b094b9c26b888a46bdc3739022cae3da6f4031534"
+    },
+    {
+      "path": "/usr/bin/afktool",
+      "hash": "cbf3f2ff25de1b6d36cf19a9736484474376355ca2f8eaf633bafafb96ad8c94"
+    },
+    {
+      "path": "/usr/bin/gcore",
+      "hash": "0fc7f6d895467bb9046a417291760f3a725931df0784a53e3c1d41b08f113291"
+    },
+    {
+      "path": "/usr/bin/javap",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/xed",
+      "hash": "3cdacfccb9593a6fa562b6f411c59cc1e2a1a0c13742e3021ee0bb8d4e23d79d"
+    },
+    {
+      "path": "/usr/bin/uuname",
+      "hash": "95f73efd474fa4c1fb252b2384232a9219889ecd7480119f008a1beb8b418c44"
+    },
+    {
+      "path": "/usr/bin/javaws",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/ptar5.34",
+      "hash": "126fc379885309b476100e1150430256ab892c5b5650741af17478984a389758"
+    },
+    {
+      "path": "/usr/bin/findrule5.34",
+      "hash": "90792a4e693674f127e276235220d887deed9232832fce3bded53ca6956af8da"
+    },
+    {
+      "path": "/usr/bin/env",
+      "hash": "697635641e389ecac2bddb5a0c9ab5e24168964a03666ca20d14c411dfc6f544"
+    },
+    {
+      "path": "/usr/bin/pr",
+      "hash": "66f6746d0345b36f02c48aff0243b6243ff02316728c7ebbb8e6d5cebcc672a9"
+    },
+    {
+      "path": "/usr/bin/h2xs5.34",
+      "hash": "7292e1d2b1bcef2a1b05ce8bae00b2651e5f115b5aff07272b1fafbdad9e723f"
+    },
+    {
+      "path": "/usr/bin/head",
+      "hash": "8db1ac10460492677c29360e7dd2f52ee4be2daaa27829bdc37cd149fc4cf4da"
+    },
+    {
+      "path": "/usr/bin/dsymutil",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/clear",
+      "hash": "d6acaad70bc2da029c26ceacd00e1259350d4b8afc01db156716c8653d28efe7"
+    },
+    {
+      "path": "/usr/bin/manpath",
+      "hash": "68620fe5df0d69a5fbba7b906f94fe7b8f2c0bdfd274826e34d2928b172cfff3"
+    },
+    {
+      "path": "/usr/bin/apropos",
+      "hash": "68620fe5df0d69a5fbba7b906f94fe7b8f2c0bdfd274826e34d2928b172cfff3"
+    },
+    {
+      "path": "/usr/bin/units",
+      "hash": "85c78b1c7da0ce2ab1d3468b5f8b25a15785ca4019e02e6d8dfdd7f8ee96bcdf"
+    },
+    {
+      "path": "/usr/bin/curl-config",
+      "hash": "3d2dd1aa8eaf3c160412761e674a24328ed945b82388f956b85ccfb83c890c4e"
+    },
+    {
+      "path": "/usr/bin/htmltree5.34",
+      "hash": "2b9d1ef6d8e4e1c3fe2b02c01e4be3b921392c074169902ef7e40fc85c980f0e"
+    },
+    {
+      "path": "/usr/bin/lwp-mirror5.34",
+      "hash": "88507cede987da1cd61ab0d7782e18ac8468910b00137086f45380195f12924e"
+    },
+    {
+      "path": "/usr/bin/ptargrep5.34",
+      "hash": "0bca747354107929ecefbab2a8128923763bfa622124e20a1194c7f8a914a20f"
+    },
+    {
+      "path": "/usr/bin/kgetcred",
+      "hash": "3f06bf228bb52442689c39acca2414b007b27b684e1b9b2a5cba5b17c5634c53"
+    },
+    {
+      "path": "/usr/bin/rev",
+      "hash": "9583d13da50917315b93e794633ef47d01936de2902fe68bf379a483946dd5ec"
+    },
+    {
+      "path": "/usr/bin/SplitForks",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/uniq",
+      "hash": "42cb8478a2b4a3bde3442c521ae66a19cde7a2e17929ee9878b67a0c65a2c427"
+    },
+    {
+      "path": "/usr/bin/shazam",
+      "hash": "7cb3c6b61c3f26193130f4da00743ffc35d2028e25bb7ce9e242f5a33f09173a"
+    },
+    {
+      "path": "/usr/bin/productsign",
+      "hash": "6c071d632d1084ee7b7419190de884c235ac1d56e5c1efd2195290b1009dfb21"
+    },
+    {
+      "path": "/usr/bin/defaults",
+      "hash": "5f67aa1bba6e967173971c166ce0ec8b30a3f2f67338479887104514bd8502b3"
+    },
+    {
+      "path": "/usr/bin/tic",
+      "hash": "b11a2be0b194937c3c43b26fc3c7188de0a58e72b747bb835448abe40f081cad"
+    },
+    {
+      "path": "/usr/bin/zip",
+      "hash": "693944fc6c8a43f54eb524dfada121f3a9368710662090565026989fd809d52a"
+    },
+    {
+      "path": "/usr/bin/uulog",
+      "hash": "bcfbf26a54ed096afa134a3aa1e0e19b43e63a121f3fe431e2f8e0f79b76d061"
+    },
+    {
+      "path": "/usr/bin/pl2pm5.34",
+      "hash": "a974fb9e86c76778a249d47d521e6fa1847c331ba3eea6e240a37b1c44dd6a1d"
+    },
+    {
+      "path": "/usr/bin/atrm",
+      "hash": "c566cf70c6602a29fdc038ce1450bab3caf5a32f1ef55fa17a7e0739f7a71b42"
+    },
+    {
+      "path": "/usr/bin/curl",
+      "hash": "1959572debbab1a39fb3bcf17e0c977561fc766c92d7b171ef47a9f54895c1df"
+    },
+    {
+      "path": "/usr/bin/wdutil",
+      "hash": "5282b5e516be45a1577b3ff34f176720448fe1ae5102afc23c7b0bfbc0345de1"
+    },
+    {
+      "path": "/usr/bin/agentxtrap",
+      "hash": "84c387c475cf8affed2390a04b0b79aba89ecc5ee186c067db90a26ee21bddd8"
+    },
+    {
+      "path": "/usr/bin/db_verify",
+      "hash": "8e1fc151cf9de37bcaed466d1f124a74eb2ef22491150a4d20e517e6a893b829"
+    },
+    {
+      "path": "/usr/bin/servertool",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/newgrp",
+      "hash": "f8b24d12e486a177b2b4deceb3a37609c47d73fa5f9a0916a9c0af8c5391d2fd"
+    },
+    {
+      "path": "/usr/bin/pod2usage5.34",
+      "hash": "6405327f3f8660ed89c068b760f61ffb9bd180e2997e9ba881be00f6989c6da3"
+    },
+    {
+      "path": "/usr/bin/timerfires",
+      "hash": "6ccdb11e28a56d36ea870cb23a019638ba6fb4a2ebf7fead10021c09190f8d05"
+    },
+    {
+      "path": "/usr/bin/rpcgen",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/perlthanks",
+      "hash": "f5212840d01517bbef5bed855a7027c57a3ab6abe2d11c519cb51ec112fe0d96"
+    },
+    {
+      "path": "/usr/bin/dbiprof5.34",
+      "hash": "c04e74db63e4ae6ae4419f026b09016675a574388c56eceb13cb9b946db48110"
+    },
+    {
+      "path": "/usr/bin/snmpnetstat",
+      "hash": "6186153d9e8da85ee3f690be4ad7f8734ce2993e64910d126513f6f88bfb8394"
+    },
+    {
+      "path": "/usr/bin/package-stash-conflicts5.34",
+      "hash": "ff82854efd3f5a21d0790847457987eab734470e0653e3835b6f1a0eec52493d"
+    },
+    {
+      "path": "/usr/bin/lastcomm",
+      "hash": "bcb5dd7f6b14c2ba39cc04c78ca7ce342821eaf6349bdd8b6a5c2588606f93d5"
+    },
+    {
+      "path": "/usr/bin/getconf",
+      "hash": "058380606b335804adc207960ce4933fb3c570bed9c777e1703c4d3b6549ca50"
+    },
+    {
+      "path": "/usr/bin/kpasswd",
+      "hash": "418bd1f6173eef89f922ff0f4d2eec7503c19ba9312573e823ff4649342f6fad"
+    },
+    {
+      "path": "/usr/bin/dist_package_tool",
+      "hash": "299df11a71e1565325d8cd1c1a95c93a9a453225c75dc71d2657a503453abffc"
+    },
+    {
+      "path": "/usr/bin/vis",
+      "hash": "93268849ab59b917de903eea391175b134a6cc587206b21abba07f4a2c1af813"
+    },
+    {
+      "path": "/usr/bin/dbiproxy",
+      "hash": "8aa25769727a81d870e5ca2de70f04840567a91082d75de6781a320a0e79cb81"
+    },
+    {
+      "path": "/usr/bin/ipcrm",
+      "hash": "bdbb0397d187d00216b08b29ab032cdc17fbc46fcc683f19014d140b533ddf15"
+    },
+    {
+      "path": "/usr/bin/bputil",
+      "hash": "cc52d22ef282731cf8ebf173dd683c95a84b9583a815e695a0282cd5096fa47c"
+    },
+    {
+      "path": "/usr/bin/net-snmp-config",
+      "hash": "3f55a467db64f6315e7b7c5c9f95c9c1393479e77e9232379a8d8b4871fc197f"
+    },
+    {
+      "path": "/usr/bin/otool",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/killall",
+      "hash": "c23d380903aa72e646264c56707ecdb0b4fd0aac7326d75603a428a085166313"
+    },
+    {
+      "path": "/usr/bin/patch",
+      "hash": "208e971191b6aa8584e00eb9bd2b2b7b770cda293db0869c426cb7014442e18d"
+    },
+    {
+      "path": "/usr/bin/tailspin",
+      "hash": "b4f339be593e82cc311db975501cb2b0bbb63ecbd02fe585012003a96c9fd047"
+    },
+    {
+      "path": "/usr/bin/su",
+      "hash": "949744f7f9a5da4598648701f83226f0c54d9c4676641cc32ea2d9dfeda33286"
+    },
+    {
+      "path": "/usr/bin/ul",
+      "hash": "c63bd631f83fe4f674b5d880aead54110c6e926c2520bd99b5a09931f0cf0ef9"
+    },
+    {
+      "path": "/usr/bin/compression_tool",
+      "hash": "ad226d995371ea4a509961c14278c74216fff00aa9f4bb8b5c693d1084050211"
+    },
+    {
+      "path": "/usr/bin/ssh",
+      "hash": "1399769d1eb2b37e359cb2472614b3e2c64ca0ad45dff2131aae50f9ada97539"
+    },
+    {
+      "path": "/usr/bin/kdestroy",
+      "hash": "386e74b2844414ed85c828677e30662b1a562aefa15ad3197e28b59d2362c5bf"
+    },
+    {
+      "path": "/usr/bin/snmpgetnext",
+      "hash": "fd49b185b8dd66d6d9dbdb62328b5f0c4d0819276a8bba10854aa35f539e1bfb"
+    },
+    {
+      "path": "/usr/bin/type",
+      "hash": "6b84445c57c474382fd4083629b8308d189e10a9a2bbd66c06b288e56b5b08a8"
+    },
+    {
+      "path": "/usr/bin/xsubpp",
+      "hash": "c8c0f265dd2f3f247f179a5464bddfe6391b9e06996e961fa15c51c2e26e39a3"
+    },
+    {
+      "path": "/usr/bin/tidy",
+      "hash": "1772f0bfdba0cc54d3a355b8b58c6c31193b9d4855f7043f51da7cd5d15a4ae0"
+    },
+    {
+      "path": "/usr/bin/tftp",
+      "hash": "d5411e6b2beba50bb7892b90b9171fd50532cc862761e7bcb69f833a7d48b534"
+    },
+    {
+      "path": "/usr/bin/assetutil",
+      "hash": "b4e8aadeb8ad1b5a2306c94707682032ce2d62e7cf4f6fd331bb1c95eda145ea"
+    },
+    {
+      "path": "/usr/bin/AssetCacheLocatorUtil",
+      "hash": "279df99c371b3d61d584af8dc065698781ccf4067d9e8dc40125e4b55bc662a4"
+    },
+    {
+      "path": "/usr/bin/orbd",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/usbcfwflasher",
+      "hash": "d866cea8156590ccfbbe13e470773037f9cc94726b19707a621edacdad2c65bc"
+    },
+    {
+      "path": "/usr/bin/streamzip",
+      "hash": "1727ae821dc48649af305527da7b32d173fb322462bb911b460d7688e89b51d2"
+    },
+    {
+      "path": "/usr/bin/networkQuality",
+      "hash": "0a4fba6eb414ff39f52548afac6032ced5052dd5a5452f3e4c826ceb043a7c1a"
+    },
+    {
+      "path": "/usr/bin/memacct",
+      "hash": "8c8f8d2eb6ef28ff8b2d1af207f4566fd39f228ae40c25ba219a90c56760e92e"
+    },
+    {
+      "path": "/usr/bin/ktrace",
+      "hash": "df0fdb9c9b0d0a8f1f640f7c0326dfd8de3ae5aa3d65bea92ab54e6d1850b09f"
+    },
+    {
+      "path": "/usr/bin/DeRez",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/textutil",
+      "hash": "b402fe5c5a234aa3798b15c77860909b33d4135b0218e1358dba356cb71b6bce"
+    },
+    {
+      "path": "/usr/bin/xgettext.pl",
+      "hash": "b0b5c73f216eefd70c71320fffd36aacfa341aa5370f38b98733c26f48b2cfce"
+    },
+    {
+      "path": "/usr/bin/automator",
+      "hash": "ea227cae0f5d5f0bccaee4c2dc63e16a066f8aa35820d269ed5e150b00d53688"
+    },
+    {
+      "path": "/usr/bin/stat",
+      "hash": "eb472cd514a511d553713e945f0a6a07ae8eb83d5d237bbd437adb8deb375cb6"
+    },
+    {
+      "path": "/usr/bin/perldoc",
+      "hash": "0e046b26f9bfaa2cab9f1f5ab396c50a03242b69adb4b0c888d076e34258fa90"
+    },
+    {
+      "path": "/usr/bin/javac",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/xcsdiagnose",
+      "hash": "3cdacfccb9593a6fa562b6f411c59cc1e2a1a0c13742e3021ee0bb8d4e23d79d"
+    },
+    {
+      "path": "/usr/bin/mdfind",
+      "hash": "01728bf6bf3a0f4b65806c6daa41cda59e613ec68f24354e2778e998ecefe351"
+    },
+    {
+      "path": "/usr/bin/mdls",
+      "hash": "d7c7d3376206f5098eb7ba8d20451cb6a759f9b644c78749bd8f05f5b17a760b"
+    },
+    {
+      "path": "/usr/bin/keychain-access",
+      "hash": "fd06549ce12b44b0fb528591797c53b9b48c098cf6ebecd8fddf9a7850c7b4a1"
+    },
+    {
+      "path": "/usr/bin/codesign_allocate",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/binhex5.34.pl",
+      "hash": "ab28991b25e2606ec10d5aeddccc9bd5a6266eb10e3da8eecd130c0d524b5d7e"
+    },
+    {
+      "path": "/usr/bin/mddiagnose",
+      "hash": "f2a1eaeec85e4d21697d5853ab9b000379e273f4a225f899ee4908ead20357e4"
+    },
+    {
+      "path": "/usr/bin/snmpbulkwalk",
+      "hash": "1fae03a125a76b93000b48ecf73451eb4597f921e34b08152bfa34d37fa07a47"
+    },
+    {
+      "path": "/usr/bin/keytool",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/tidy_changelog5.34",
+      "hash": "61d412947d8cf474f45d05b6486469e16908c3f9225fa4d7a3857ac003e9a943"
+    },
+    {
+      "path": "/usr/bin/fileproviderctl",
+      "hash": "dd9076a68668be3df95d703cb95e84cf2e0eec9caae8d8a101d63537776050ee"
+    },
+    {
+      "path": "/usr/bin/binhex.pl",
+      "hash": "ab28991b25e2606ec10d5aeddccc9bd5a6266eb10e3da8eecd130c0d524b5d7e"
+    },
+    {
+      "path": "/usr/bin/IOSDebug",
+      "hash": "ec1c21737595b24eea75ae74c9ee4f12c6cab0d2b4b0c09f8885d9ac85ffc5a4"
+    },
+    {
+      "path": "/usr/bin/dtruss",
+      "hash": "bcad1cc5acd97fcfd28c889ee56121968de7a1d290051254537f5a2e4b084a57"
+    },
+    {
+      "path": "/usr/bin/dserr",
+      "hash": "9e3c3ceb7bcb4cd931a40e1b8b3d2e9aa707c7299971c5ba46002503e2753f3e"
+    },
+    {
+      "path": "/usr/bin/tiff2icns",
+      "hash": "6326517feb36291c6f762338764a10425bd47a32f3daa7a7424eede920fc1a91"
+    },
+    {
+      "path": "/usr/bin/mandoc",
+      "hash": "de25ed49d3dabf880844b32fc09f9545081fae93752ec29c5296f3b0e9362c0c"
+    },
+    {
+      "path": "/usr/bin/pbpaste",
+      "hash": "058449bc9bfce43b8a8239bdb40a8ca453f54171908c14a572ae0d9f748706fd"
+    },
+    {
+      "path": "/usr/bin/policytool",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/yamlpp-highlight5.34",
+      "hash": "bc51800ccb35f2591d5bf35a2dcc3e8ffb581e652f832177cddac2419654fd80"
+    },
+    {
+      "path": "/usr/bin/actool",
+      "hash": "3cdacfccb9593a6fa562b6f411c59cc1e2a1a0c13742e3021ee0bb8d4e23d79d"
+    },
+    {
+      "path": "/usr/bin/b64encode",
+      "hash": "6667f22e163035b05960079419338cc13e5b3e812b25f354ccb71a382979c9ec"
+    },
+    {
+      "path": "/usr/bin/xpath5.34",
+      "hash": "f14deeff809883d1cff29914cdf36b3f3914e851afea53a3c7fbf7f7ae29e814"
+    },
+    {
+      "path": "/usr/bin/heap",
+      "hash": "df7bc41ff15fdf6b998ab3eec6a1234ce32b09f91ee7c007fbaf4bb0d7f577b0"
+    },
+    {
+      "path": "/usr/bin/sum",
+      "hash": "7a62e2c31d043aab58ec6801c16e0f7c32b1159c9a60f8dcc10f0bc1f952784b"
+    },
+    {
+      "path": "/usr/bin/lskq",
+      "hash": "137bdb967ca8b578e25d7c6ab823613520672182d62a4899ab4235bdc05cb979"
+    },
+    {
+      "path": "/usr/bin/macbinary",
+      "hash": "3e15004f09e6f31d9f8af1816fda119851e97d7f9595c47b3662b9a4709a4c60"
+    },
+    {
+      "path": "/usr/bin/nc",
+      "hash": "a08f72c2c9203801743ed467a0bc6df2496e1d15108f7c050ebc76461dff9bf3"
+    },
+    {
+      "path": "/usr/bin/json_pp5.34",
+      "hash": "b336e50dc789c31cbd7b0f467d05e0d91188d06c7c27aa4009b904af8c6a4091"
+    },
+    {
+      "path": "/usr/bin/snmptrap",
+      "hash": "4cdba460b8d0d3302dfa2aed37032543bcf5c6659c3de0f97ad0d527a049c77b"
+    },
+    {
+      "path": "/usr/bin/tsort",
+      "hash": "b18d080bd1d02701b94f440eaacefa918e7f4e8919998080f782f6b7ed801171"
+    },
+    {
+      "path": "/usr/bin/uuencode",
+      "hash": "6667f22e163035b05960079419338cc13e5b3e812b25f354ccb71a382979c9ec"
+    },
+    {
+      "path": "/usr/bin/usdchecker",
+      "hash": "eadc2e51f191a9e3189ab57ff7ca5e269a9b8efb8f6b7cc004765f7ddf7cb9c4"
+    },
+    {
+      "path": "/usr/bin/cpp",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/swift",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/batch",
+      "hash": "73e90f3e4c8b03df87d75dd1ec91ded8ebb2f4ee8e33b8d82bd2f2a01167878e"
+    },
+    {
+      "path": "/usr/bin/sqlite3",
+      "hash": "87b164cf1c10e9ac2b0a2e87e3cc963922ea9c515c808f253163aac1415b88ac"
+    },
+    {
+      "path": "/usr/bin/make",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/pod2html5.34",
+      "hash": "1e90ab0bc7fc5779b93ee0b3d6f4a84d7256859322c16ca82b87657a3c7b3f78"
+    },
+    {
+      "path": "/usr/bin/dig",
+      "hash": "47a41a1858ef5d86a75c8cd9f126ebc3082cd4338368127cbc9ef52957c57c96"
+    },
+    {
+      "path": "/usr/bin/macerror",
+      "hash": "3e38831c2b8213877b4c0fafcd9bca4d14261e9ca2f643c7418cb737b024eb28"
+    },
+    {
+      "path": "/usr/bin/infocmp",
+      "hash": "0af47007eecbaaed9600ce9d255c31fd76183511ae534324cec00d4a9cd97da5"
+    },
+    {
+      "path": "/usr/bin/eslogger",
+      "hash": "9615d05d9c75d2201361ba8d6aebe8efeba56577d8ff2a475de2753d89261544"
+    },
+    {
+      "path": "/usr/bin/trimforce",
+      "hash": "491bd36c45f662607769b80c5d8860694aa11c4c8417d166d81f9d533cb13c73"
+    },
+    {
+      "path": "/usr/bin/nm",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/flex++",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/osadecompile",
+      "hash": "7c638debbd99fa44f86609a4f27fc0eaf54d0c097e3838e909d859f10678e524"
+    },
+    {
+      "path": "/usr/bin/IOAccelMemory",
+      "hash": "440098e4ba3db82fa0a4c8970c94a39233a086dbd2d7e85a70aa38d8eaa6dc70"
+    },
+    {
+      "path": "/usr/bin/automationmodetool",
+      "hash": "23454401d88f691b65824fc311a145a5d24fbffdd621a05af56788b6591474f0"
+    },
+    {
+      "path": "/usr/bin/ssh-add",
+      "hash": "ca25382e16dfc590a547f1408c1c4d5983859a52f27823e43b4a7dbd689c38e5"
+    },
+    {
+      "path": "/usr/bin/machine",
+      "hash": "7885e90584f52d90a6045810d34d02041c06bde102b239e2245dd6225dd9d879"
+    },
+    {
+      "path": "/usr/bin/libnetcfg5.34",
+      "hash": "78bab79d103416b08a51e070bf599101a897f3753ff729bd3bafd4068f5b2564"
+    },
+    {
+      "path": "/usr/bin/wish8.5",
+      "hash": "76f2f308fa18e0f1d938d4dd94ff246ec675ff11db0c1496f19ae55e6b36c6ea"
+    },
+    {
+      "path": "/usr/bin/screen",
+      "hash": "edbbe7912e9509b71c354b9466862bebfd8d2a568a6ab0a33b928aa5588a19b5"
+    },
+    {
+      "path": "/usr/bin/snmpget",
+      "hash": "64b8ae81ba5388317ad3c06f1378c866765a58d019c88c195fab9e337607918b"
+    },
+    {
+      "path": "/usr/bin/pcsctest",
+      "hash": "a48f3f7ab0cd139b8c8f2598523d37884be7a9d81461f9918d3ee990712aaafd"
+    },
+    {
+      "path": "/usr/bin/codesign",
+      "hash": "902872fa6c02f3580f7ec40872bee23e1dd9fd2c12cfa11a44cf6b34d602863c"
+    },
+    {
+      "path": "/usr/bin/atos",
+      "hash": "bd32092f8d9605ce5b53376a4acd07f64fd6d17e01ad6c494725e680250fa5b6"
+    },
+    {
+      "path": "/usr/bin/llvm-gcc",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/arch",
+      "hash": "7885e90584f52d90a6045810d34d02041c06bde102b239e2245dd6225dd9d879"
+    },
+    {
+      "path": "/usr/bin/ssh-keygen",
+      "hash": "45c279224917b4e2d8642f007d20bcebb0fbaba4e3a6b4e49bb2038a6f24943f"
+    },
+    {
+      "path": "/usr/bin/snmptable",
+      "hash": "3ac47bc25e23a6965376a1f3c72fd3da495b8ebd83bf7d9c323f8211cbfb3ba5"
+    },
+    {
+      "path": "/usr/bin/kill.d",
+      "hash": "b057e40af93dffc27cac393c005cbd68154b0aa9985a4ebb92229f9bfa3919ac"
+    },
+    {
+      "path": "/usr/bin/ditto",
+      "hash": "55318f2bb92f21edaaea733fe9447354679d9f178540169cd213a58ed239aa33"
+    },
+    {
+      "path": "/usr/bin/getopts",
+      "hash": "6b84445c57c474382fd4083629b8308d189e10a9a2bbd66c06b288e56b5b08a8"
+    },
+    {
+      "path": "/usr/bin/users",
+      "hash": "76195f9abe177416b5ecc919794a3c7b24aa698059dec21978221194172b0605"
+    },
+    {
+      "path": "/usr/bin/snmpbulkget",
+      "hash": "119e803f101fdaa7344beb968f41686def047fde663fcc92f5e8cc1391cc24a1"
+    },
+    {
+      "path": "/usr/bin/sdp",
+      "hash": "3cdacfccb9593a6fa562b6f411c59cc1e2a1a0c13742e3021ee0bb8d4e23d79d"
+    },
+    {
+      "path": "/usr/bin/cpan5.34",
+      "hash": "5bd467ca17d612cde6d7c8fbac6fb06ccce58ca6259e06b91c79ed59b1b277a2"
+    },
+    {
+      "path": "/usr/bin/ibv_devices",
+      "hash": "a4dba89e55f60d52522ba0922f69920980a736d02a265550e9f5811435cabcdd"
+    },
+    {
+      "path": "/usr/bin/treereg5.34",
+      "hash": "e913e0874501938f25c7ccef0948e02af1c8052e2be22fad6c4c3a8ced4131ba"
+    },
+    {
+      "path": "/usr/bin/showmount",
+      "hash": "a925e2fe1265bf72e56a978eae7c3b133f41feee10749546e5c95f1ae86e613a"
+    },
+    {
+      "path": "/usr/bin/taskinfo",
+      "hash": "55e284597e6fb82474eeaa491c8d7c8450b65879d2f4ba223f3735aa4443e662"
+    },
+    {
+      "path": "/usr/bin/ar",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/who",
+      "hash": "6638c527b762c6b4aa3eb1fbb2a777e1cff1c1f5ecc6f77d8f910d5ba6d97c2a"
+    },
+    {
+      "path": "/usr/bin/mktemp",
+      "hash": "6a427415b2485f4917b6d2145032410bf4feb7a48d247aa7a6c4e0996ee82b1c"
+    },
+    {
+      "path": "/usr/bin/unifdef",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/cut",
+      "hash": "ac92b88b84aa0c91b1762b2534e9d78c8cc1450e4bd54a1746b97e00298bcbd7"
+    },
+    {
+      "path": "/usr/bin/imptrace",
+      "hash": "0e800b9e89fc9d60a379e9f65ec90ee2d5d7cb94b4f4c033abcfef9c931f138c"
+    },
+    {
+      "path": "/usr/bin/pack200",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/ippeveprinter",
+      "hash": "4388dbcc4c83d4e27441f3e7d21874ced402c9b214b2cc0ff8136e671014eae7"
+    },
+    {
+      "path": "/usr/bin/hdid",
+      "hash": "b92ad6122e46864b411cd3f5217193c11dd8c51802d46f8310109a0f94f4cd0b"
+    },
+    {
+      "path": "/usr/bin/dc",
+      "hash": "b9a4962d09b616675bbc4ef9a0cccd18ada81166e48d9fbf60b70c0c29c2ae49"
+    },
+    {
+      "path": "/usr/bin/mailx",
+      "hash": "f5f6c260b33733ab3ecbfca4913cec4fafcf8de4e37fe6539f09b760802c7a07"
+    },
+    {
+      "path": "/usr/bin/odutil",
+      "hash": "d56a9b622ecef42de0aafa8f4d6ea20b70840c559f751fd72d74e39d83b0eb6e"
+    },
+    {
+      "path": "/usr/bin/shortcuts",
+      "hash": "db9cd568193c6c7e473b94b241efd51e0b3840a2a8b8c39cd30643db7a312dfd"
+    },
+    {
+      "path": "/usr/bin/xargs",
+      "hash": "fe25901feb673cca012eedb600a8fa0cfac796fdc0cb9fa49e7448cd358fb6b8"
+    },
+    {
+      "path": "/usr/bin/tkpp",
+      "hash": "1f3f06428752b942d5b9df4bac6b057206dfd0af41f5a3ddefc683c5585c45e6"
+    },
+    {
+      "path": "/usr/bin/priclass.d",
+      "hash": "d22bb72aa46ce658b01effb0b19a6b325c2ebb926cecb734c45755ae7ce7ccc3"
+    },
+    {
+      "path": "/usr/bin/topsysproc",
+      "hash": "4a55914954ef1752604672cbfd89fc33bf699bc0af01f472a41e6e6a5577eb54"
+    },
+    {
+      "path": "/usr/bin/nl",
+      "hash": "39a03305b6be6792c41dfc5f094a5d8169a584dd9c2161bef8a7d659e0322e42"
+    },
+    {
+      "path": "/usr/bin/jjs",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/spfquery",
+      "hash": "90d9607c491886cf9278b58f67c9a42524d9ebbb10ebf5e36388bac950409fd3"
+    },
+    {
+      "path": "/usr/bin/sample",
+      "hash": "b76712f2ab7fde4f9d2adf90ddad02ceb6814e96240ec4609d7c69edb1010498"
+    },
+    {
+      "path": "/usr/bin/bg",
+      "hash": "6b84445c57c474382fd4083629b8308d189e10a9a2bbd66c06b288e56b5b08a8"
+    },
+    {
+      "path": "/usr/bin/rdma_ctl",
+      "hash": "33d971255bd54b32bc57ce2c252b17c94ac06bc4b1451f5dceac00edfeac9bef"
+    },
+    {
+      "path": "/usr/bin/lipo",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/seeksize.d",
+      "hash": "cc8b5de259d69fd875ddb189d508f55d40356d099d0d5bb75a96490b5acd55df"
+    },
+    {
+      "path": "/usr/bin/eyapp",
+      "hash": "d0efb50ae3e3b28d0197cb01a4b8e21081c18b9a3fb97032362a5857c3d6954d"
+    },
+    {
+      "path": "/usr/bin/csfdiagnose",
+      "hash": "c2f7af88d5a93740a3351c6bbd8fb99c41e5128384bcf473b29edd5b0dd92c31"
+    },
+    {
+      "path": "/usr/bin/clang++",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/setuids.d",
+      "hash": "b20e5f5e63d09d62de6003cbb0e626fc876f6ca20790bffb282cd718b08dcc0d"
+    },
+    {
+      "path": "/usr/bin/usdrecord",
+      "hash": "4de6861f9e91c6be9bfdb24068355216b088c88b0c16a4250679752ff7e11155"
+    },
+    {
+      "path": "/usr/bin/instmodsh5.34",
+      "hash": "9a5b48f3e4b995051c6b02013017bfa166759ffd5e3f71cc2d146a845d871b3a"
+    },
+    {
+      "path": "/usr/bin/aa",
+      "hash": "c69e5d586f5626b23b258c0afa102e1c04a3533c92abaf207f69ba4346144fa9"
+    },
+    {
+      "path": "/usr/bin/shlock",
+      "hash": "e767cdf07d4f8115c672c08ab2a94d25a0a3302ef620a14a9c36d37cf8f8b61e"
+    },
+    {
+      "path": "/usr/bin/symbols",
+      "hash": "eaeeacac10775e5cba59f26753c522276ebbce970b0474bb73f5570d1e8e7faf"
+    },
+    {
+      "path": "/usr/bin/xctrace",
+      "hash": "3cdacfccb9593a6fa562b6f411c59cc1e2a1a0c13742e3021ee0bb8d4e23d79d"
+    },
+    {
+      "path": "/usr/bin/gzexe",
+      "hash": "8f0b3783165dcf5f7d38da8382dabde0ff08424be273b2c4ce3516459e079f15"
+    },
+    {
+      "path": "/usr/bin/ip2cc5.34",
+      "hash": "0fd8d15f5d6cb69b7cab075e5fb80528c6e6af4b539ba9e81f0d79c90c0a6872"
+    },
+    {
+      "path": "/usr/bin/usbdiagnose",
+      "hash": "2d6f505604e474ccad3d2315f51ff2a115bbfc408ff6901e5c96838e24dc56a0"
+    },
+    {
+      "path": "/usr/bin/genstrings",
+      "hash": "3cdacfccb9593a6fa562b6f411c59cc1e2a1a0c13742e3021ee0bb8d4e23d79d"
+    },
+    {
+      "path": "/usr/bin/at",
+      "hash": "9297aa428daf61d6b7f42c90651be871b3548ce9d897edd968c2cd70b2247fe9"
+    },
+    {
+      "path": "/usr/bin/what",
+      "hash": "6bba74fecb47ecfcb6b91b66f422c27bdc225279ef91c314c5c48fbbde1148c8"
+    },
+    {
+      "path": "/usr/bin/fping",
+      "hash": "2a60db8ed7541b0b6c8e7ba882b243a1a39f5fffa9db1d3490c823e790bf299b"
+    },
+    {
+      "path": "/usr/bin/m4",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/asa",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/iptab",
+      "hash": "3ca1177514004f357d4a50bbf3a38b9a2653fae1f85e39373ea59edb294cb619"
+    },
+    {
+      "path": "/usr/bin/swiftc",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/nfsstat",
+      "hash": "61e08026ed3d2213c1513ecd2958de9548bd47931750b68604b171c66c52deb0"
+    },
+    {
+      "path": "/usr/bin/uupick",
+      "hash": "374585c3f27f42b8155f71676e4a5819535b8020024491a4ebb4e87f1f8d7294"
+    },
+    {
+      "path": "/usr/bin/ipcs",
+      "hash": "df0e7940db2497eb6fd029c2f9383a695f3be3ad286e451859c2cd4f334af8fd"
+    },
+    {
+      "path": "/usr/bin/pluginkit",
+      "hash": "7f5567fb6b1c7acf48aade20e497f57fc0863679c43df9a50f060825a8b572eb"
+    },
+    {
+      "path": "/usr/bin/ibv_uc_pingpong",
+      "hash": "613c8e1cf56db6acf3bd033f58a8043a56f60f54f8f704b0b260a054e00baf6f"
+    },
+    {
+      "path": "/usr/bin/as",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/splain5.34",
+      "hash": "133ce41cc448d386215b07182b965c8d0f9e206d395e58ad29c96302604f2ba7"
+    },
+    {
+      "path": "/usr/bin/fold",
+      "hash": "64ebdb04d194a1ed7e01838850f0e0b0622f3331ba80b1471a7b75dccd70b5fa"
+    },
+    {
+      "path": "/usr/bin/gnumake",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/log",
+      "hash": "f3e7f45d4f483062b79aff4975e62e7e281593ef9e08dcefaf96e010c50e6e52"
+    },
+    {
+      "path": "/usr/bin/tmutil",
+      "hash": "506feeb1b108e4914991fda3ccac3dbdc0b340d907c54610263adb389de2dd0d"
+    },
+    {
+      "path": "/usr/bin/certtool",
+      "hash": "745126f65fdb581df8ad0402ed0d0e92641f8b514dae38120f72564f1f3e69e0"
+    },
+    {
+      "path": "/usr/bin/vmmap",
+      "hash": "35e34bdf3041945c36b1e8ecb04310119854064363fd0215015dd73867084519"
+    },
+    {
+      "path": "/usr/bin/system-override",
+      "hash": "6ebebf81ab3789264877e1d5f51178868e7d58f9ac96c1a5b1f0defdcb932dee"
+    },
+    {
+      "path": "/usr/bin/h2xs",
+      "hash": "7292e1d2b1bcef2a1b05ce8bae00b2651e5f115b5aff07272b1fafbdad9e723f"
+    },
+    {
+      "path": "/usr/bin/csrutil",
+      "hash": "6b8735b0b1f68eb13516f1bae00ffc960be39425e7a25a61d016500ce44788d3"
+    },
+    {
+      "path": "/usr/bin/shar",
+      "hash": "cbc1849e2bd7913e76ace1edac94cbe0b9591751eef333714ddc8a0d645fd1dc"
+    },
+    {
+      "path": "/usr/bin/ldappasswd",
+      "hash": "004674f3d2864afd0db5bf980b7a9aa4520cb07cc0a71031a3361d7645b49cb7"
+    },
+    {
+      "path": "/usr/bin/ResMerger",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/bitesize.d",
+      "hash": "3a361c952c226bbd830ef4d91c8df4f4893e1f1b0ed82061e800b2074377800f"
+    },
+    {
+      "path": "/usr/bin/db_checkpoint",
+      "hash": "ca10f19b6b1f62b84bf34657b3884c582aeac5cea29d3454ef7d189251f0e727"
+    },
+    {
+      "path": "/usr/bin/funzip",
+      "hash": "2febfbdcf60fb3280bac57367d8760fd442248f692d829f763653f0404c5e2bc"
+    },
+    {
+      "path": "/usr/bin/pod2readme5.34",
+      "hash": "ea8e86e9f0502cbddba9160d2ea094d400e76e48114ab924e2157bd73e4c16c0"
+    },
+    {
+      "path": "/usr/bin/power_report.sh",
+      "hash": "cd8582a1f64aac7cec73d21facb9a5d46b34200d19015dfef315caa73ab48cc8"
+    },
+    {
+      "path": "/usr/bin/iosnoop",
+      "hash": "c7af181e96f4b56f903709d69898a770075d15cb819942a07978e90c122319ed"
+    },
+    {
+      "path": "/usr/bin/atsutil",
+      "hash": "1fabe0f52580b8f19d90826f3cf1026580ae6ca910484da74553377b4358aa51"
+    },
+    {
+      "path": "/usr/bin/macoserror",
+      "hash": "4e488ad0a26abcb301ecfc1de494ed325f39d7e7b938de9c12a69dfa98982a61"
+    },
+    {
+      "path": "/usr/bin/osalang",
+      "hash": "31de957f6f726915043018d82112051a8784f844c8626ca93b3671ffcf7d4b5f"
+    },
+    {
+      "path": "/usr/bin/dirname",
+      "hash": "c3dc842e7ff2f046cd66abd3499196c5871a3f3d78ee0abc8fe8770b68bf009c"
+    },
+    {
+      "path": "/usr/bin/pod2man",
+      "hash": "787b44d170897cf7cd25055fd3262c3172fc0a08061c520992197544d9e21195"
+    },
+    {
+      "path": "/usr/bin/enc2xs",
+      "hash": "615127ec2411508184464b6062ce80d09dfa8f9bbd83fb2650618c289251a0cf"
+    },
+    {
+      "path": "/usr/bin/shasum5.34",
+      "hash": "0812595f981a26f813d98dc380af14d4af427626c9339eda29eb849ae13de1e3"
+    },
+    {
+      "path": "/usr/bin/iopending",
+      "hash": "52c7a6197e653b3b577ff43373a76ba61b3b7841da1ce3d4fa95aa3134533fde"
+    },
+    {
+      "path": "/usr/bin/ncal",
+      "hash": "89174322ac541999d9c78901b976b41feb5140b0eea7b2fc38271b20f6d08204"
+    },
+    {
+      "path": "/usr/bin/yamlpp-load-dump5.34",
+      "hash": "ccaec425a9023731660406787a047a44143fe9ccc784679164ca163a96d39dbe"
+    },
+    {
+      "path": "/usr/bin/chflags",
+      "hash": "d20177cc683d093514afda429542834bfa7b245cfa46e6dcb6e0d01cba130ac3"
+    },
+    {
+      "path": "/usr/bin/derq",
+      "hash": "3fd4e78e414962c05cffaa8f102a3a49be1e2c6ca2b57ca6ebe2ecd3a6cf53e5"
+    },
+    {
+      "path": "/usr/bin/fg",
+      "hash": "6b84445c57c474382fd4083629b8308d189e10a9a2bbd66c06b288e56b5b08a8"
+    },
+    {
+      "path": "/usr/bin/rwbypid.d",
+      "hash": "7dc0ac9b5b25ea7d406d487275954b2536269b62ad4db44b3d7552eb1c07ccb0"
+    },
+    {
+      "path": "/usr/bin/jmap",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/dscl",
+      "hash": "443d1ca64bca1e896fd247e63aa283c7a209680b690ea493314faf72f9426566"
+    },
+    {
+      "path": "/usr/bin/leaks",
+      "hash": "bc2d42416b5c002075d4fce63587aed090076c6f06b828efae27bd493c8e5aed"
+    },
+    {
+      "path": "/usr/bin/perl5.34",
+      "hash": "aadba1f01eee1ddbe1272e7542ea36570c6fd201240cdf3fa0165263388aff4e"
+    },
+    {
+      "path": "/usr/bin/nbdst",
+      "hash": "0b180b142e5cf504be6470a22b512cccb4b500c5d814f61a5e9166fe3aa2cf69"
+    },
+    {
+      "path": "/usr/bin/net-server5.34",
+      "hash": "4ab31c4201d4d47e600b93585820f32bf008bd1a1f06fd6e107fdb951d2a9c76"
+    },
+    {
+      "path": "/usr/bin/mnthome",
+      "hash": "8661e6feed6b3a95a011f8dbe567453bce05220943f134ba6a3cdc5e310bdc98"
+    },
+    {
+      "path": "/usr/bin/jshell",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/dsexport",
+      "hash": "85bef20603c69d688d378e2025494a20a967341d7c1acceb2b76703784ce9538"
+    },
+    {
+      "path": "/usr/bin/mdimport",
+      "hash": "311b664a149eac06d80e8133ece72f3eaf1098d7bb60686857974f02a829b54b"
+    },
+    {
+      "path": "/usr/bin/parldyn",
+      "hash": "4558ea581b9533c6191c6f5d118b16af9c41d90237b95c5ece36a448c249ad3b"
+    },
+    {
+      "path": "/usr/bin/id",
+      "hash": "59dd0667525c42a34fbe0c6267032f192bd09fdaa3e0e3ad50176741cbd10550"
+    },
+    {
+      "path": "/usr/bin/bm4",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/procsystime",
+      "hash": "d2d80db817dd59246bc43674a9e315b7db312f59fda916f20e036199a09dda84"
+    },
+    {
+      "path": "/usr/bin/dbilogstrip5.34",
+      "hash": "4b46e7e537324240ac89528e597485ad060cd70d1a5b6dfeec14b1ef3fdd0373"
+    },
+    {
+      "path": "/usr/bin/cd",
+      "hash": "6b84445c57c474382fd4083629b8308d189e10a9a2bbd66c06b288e56b5b08a8"
+    },
+    {
+      "path": "/usr/bin/quota",
+      "hash": "213f7a99022b42ccdaa453d686f1bede6f8a93d8fdaa0214ab93d63f708d666a"
+    },
+    {
+      "path": "/usr/bin/uuto",
+      "hash": "098a65070165d6cc17969dcd3fb5182809269fd4d11499b93c3efa625931f579"
+    },
+    {
+      "path": "/usr/bin/fuser",
+      "hash": "40eb622e053727159a5b97604000bcbb16f4d0344aad697a55f423c6c4d2b80f"
+    },
+    {
+      "path": "/usr/bin/dsimport",
+      "hash": "20053c1eeccce6258d8ba7685b9d20fc41b64618c0b2071415c7e3a673f8cebd"
+    },
+    {
+      "path": "/usr/bin/git-shell",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/ldapsearch",
+      "hash": "bbe2b2fef154cc7b6baadaf9f6a6a786ccc4e643538f6705a19b08b220351a3a"
+    },
+    {
+      "path": "/usr/bin/command",
+      "hash": "6b84445c57c474382fd4083629b8308d189e10a9a2bbd66c06b288e56b5b08a8"
+    },
+    {
+      "path": "/usr/bin/snmp-bridge-mib",
+      "hash": "cfaa7a20fa8908e6e0af27dffde2d32bb2fe5864221be1e15bda0c5e2e4a5cc3"
+    },
+    {
+      "path": "/usr/bin/egrep",
+      "hash": "76c174b94c1bff61f28bdc7f049930b46bcb92952496b7c8bec043e0523efe93"
+    },
+    {
+      "path": "/usr/bin/notifyutil",
+      "hash": "7ee1bca51e46c0b5fbf346db75f72eae914e0b51f7f2909b18d791c8e7e264e4"
+    },
+    {
+      "path": "/usr/bin/cc",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/dsmemberutil",
+      "hash": "74429d2ed854f12c8afe3bffadb05f35a7a445ac37bed85bd6b1bca7052bd818"
+    },
+    {
+      "path": "/usr/bin/whereis",
+      "hash": "17ccaa7d18781b0d41aae50233106b53ae26cf37fb321a23ee04de232ec8ab25"
+    },
+    {
+      "path": "/usr/bin/tccutil",
+      "hash": "b16d9f6b9ef3a349383e50cd2636340d83540a1bd506e2aaf204411312fd9458"
+    },
+    {
+      "path": "/usr/bin/find",
+      "hash": "503b3a8abd7d9bd2a9ec036bcade4a64e10edbedf8517bb451fe4e923273255b"
+    },
+    {
+      "path": "/usr/bin/jstat",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/zcat",
+      "hash": "0adacd0cd979d830cb5e70d26638339be0746a3f22a832c181ece63751a72b30"
+    },
+    {
+      "path": "/usr/bin/unifdefall",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/jlink",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/pridist.d",
+      "hash": "89cfa09073b30b739dc84646f0eb194fd58badc5b1143b492f25f64ca3eebfb5"
+    },
+    {
+      "path": "/usr/bin/size",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/timesyncanalyse",
+      "hash": "f9655ecf72db2f20b04ad3b13c79cd5ec5722d0bc3db5c49959c790e8d418436"
+    },
+    {
+      "path": "/usr/bin/uttype",
+      "hash": "a665ae047215864391f2eaa29ba3a28184733643c6ae2d79aad5745e3c641b20"
+    },
+    {
+      "path": "/usr/bin/uustat",
+      "hash": "fed886712b89ef7a93aac868d5dff5922ef327dd4014969681dbd5e2b135042e"
+    },
+    {
+      "path": "/usr/bin/snmpwalk",
+      "hash": "3ce49425fffb3dc18f5274b490d66f0af4f55944ce26d3b120ca26b37115db13"
+    },
+    {
+      "path": "/usr/bin/bintrans",
+      "hash": "6667f22e163035b05960079419338cc13e5b3e812b25f354ccb71a382979c9ec"
+    },
+    {
+      "path": "/usr/bin/llvm-g++",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/avbanalyse",
+      "hash": "45e7dafc98750063061b851d0d2d6f2aa7ab78d711e81c63d5e9e2a8871b1e27"
+    },
+    {
+      "path": "/usr/bin/yamlpp-parse-emit5.34",
+      "hash": "a3a8f051081f184659e09650c6fa9aa8a2ef0962fac8022ccff5ff31bd9029e9"
+    },
+    {
+      "path": "/usr/bin/scp",
+      "hash": "cfdef3adcf601a57f766cbf3dcb52fdef239b3ea9dac1a1c9b773a1e31b3b191"
+    },
+    {
+      "path": "/usr/bin/tnameserv",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/true",
+      "hash": "15f37d0373ed0cd76a3c5d6d742f017246e3006c2b5de47056f9f62b37163a6e"
+    },
+    {
+      "path": "/usr/bin/afinfo",
+      "hash": "73e4ac672047d4b55e6206b8eb79df3c4f34638c6a23a17ff322fde2d335685d"
+    },
+    {
+      "path": "/usr/bin/hidutil",
+      "hash": "fbe9452662a4bd96d90efdf0652a8fb949e8ea080c45150faee5fc28e95b590f"
+    },
+    {
+      "path": "/usr/bin/pwpolicy",
+      "hash": "cd5939a2668cc5cbbf0351865b5861dc4f31d45f42d37d579347b2e5c6b60147"
+    },
+    {
+      "path": "/usr/bin/profiles",
+      "hash": "d37999f8e4c2e87cb27460626b40f5ccea7c4eb79d543928fd6cf6c788aa9d97"
+    },
+    {
+      "path": "/usr/bin/yacc",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/xcodebuild",
+      "hash": "3cdacfccb9593a6fa562b6f411c59cc1e2a1a0c13742e3021ee0bb8d4e23d79d"
+    },
+    {
+      "path": "/usr/bin/jobs",
+      "hash": "6b84445c57c474382fd4083629b8308d189e10a9a2bbd66c06b288e56b5b08a8"
+    },
+    {
+      "path": "/usr/bin/c89",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/update_mcdp29xx",
+      "hash": "79be915cf9e41bb0fb37403c11dc1f78f896b56205f56631e77242c6cd1a72d3"
+    },
+    {
+      "path": "/usr/bin/bioutil",
+      "hash": "eb2e1753c0417ccb759b5faf8dad8c9dc80467fd9c2ab5d109f85b5a30dde88d"
+    },
+    {
+      "path": "/usr/bin/tmdiagnose",
+      "hash": "31cfe8c1b886acd2ca6e6169a2f193e159dfd5971df15b562bd529a7252bfa1e"
+    },
+    {
+      "path": "/usr/bin/plockstat",
+      "hash": "14ca95ae68cf3c2b4c5da8156831c2aac288850b1622b0ea6627c7c36fe25dc2"
+    },
+    {
+      "path": "/usr/bin/serialver",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/afida",
+      "hash": "64967b44c81e79fb37f2203510e4e1d3c62d5b179392be12d0ef0ce1c2aff68d"
+    },
+    {
+      "path": "/usr/bin/pgrep",
+      "hash": "cb57d870ae56004a83dd76fdcad4da4aec36afbbb565a168a9484d59f9a4e772"
+    },
+    {
+      "path": "/usr/bin/yes",
+      "hash": "0d5f42d68b9a46f9a6480a08d526c06f2ca713dbe754e135aa899fe9800a9792"
+    },
+    {
+      "path": "/usr/bin/lessecho",
+      "hash": "4e7d185731e7d77d2659cbbef9fadf782baf445d72a08da93076b8fc0e574e90"
+    },
+    {
+      "path": "/usr/bin/sdiff",
+      "hash": "713e76881a617a99e79c58a8fba5a67961d77663daed26e345c5000db52601f5"
+    },
+    {
+      "path": "/usr/bin/afscexpand",
+      "hash": "b33bf2d62b1c600b3f0e65c573f0abb972e938a20d24fc9c4abb0d579866f5be"
+    },
+    {
+      "path": "/usr/bin/db_deadlock",
+      "hash": "74fa94b191c33da992918de211b092d049c4f31f3d5aefa359b07fee2ef7acdf"
+    },
+    {
+      "path": "/usr/bin/syspolicy_check",
+      "hash": "58f9455c081fc2ab6c6be733e71b3415855facbeea033f39ee26c59328178d30"
+    },
+    {
+      "path": "/usr/bin/lesskey",
+      "hash": "5543064ea92cc9182e5dfb78a50dbd7c7db561fdd008b3d387784c87020b0132"
+    },
+    {
+      "path": "/usr/bin/ldapcompare",
+      "hash": "94f94e8209302debc6b4ab539d2e2f8881b4bbc0998f59ada4c0a6c3aa343c6e"
+    },
+    {
+      "path": "/usr/bin/unexpand",
+      "hash": "8e824e260c70063c7e982f06cd84e572ed11f249c457184900b5ce7ee5e5a39e"
+    },
+    {
+      "path": "/usr/bin/git-upload-pack",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/perldoc5.34",
+      "hash": "0e046b26f9bfaa2cab9f1f5ab396c50a03242b69adb4b0c888d076e34258fa90"
+    },
+    {
+      "path": "/usr/bin/ssh-copy-id",
+      "hash": "a331afd275d386fd1a699e42fa1514699cf86c744ef62df3e5240d89e1443650"
+    },
+    {
+      "path": "/usr/bin/fixproc",
+      "hash": "c1dbfb91084747a8e9753cc996eea8302df78760e7ecfa73d161e589f489da16"
+    },
+    {
+      "path": "/usr/bin/debinhex.pl",
+      "hash": "08a3b551dc20711f4198edf762e63a3e87c914ca01a8df510ac5f19516f26f96"
+    },
+    {
+      "path": "/usr/bin/lorder",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/jq",
+      "hash": "675ff0b4e180a8eb86d2bec2dee97f3e8e089bc0eecb0efed675a4b6aae8d805"
+    },
+    {
+      "path": "/usr/bin/ranlib",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/ptardiff5.34",
+      "hash": "1d7d45bd4f48409a479886e6cfb6e3e8093fea89b10ce906d399484d92a86cc0"
+    },
+    {
+      "path": "/usr/bin/javadoc",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/tput",
+      "hash": "afee92eafe543753e5aaa67e7f7c428969b21ba94dfc00e9186e8f8861e931fd"
+    },
+    {
+      "path": "/usr/bin/fgrep",
+      "hash": "76c174b94c1bff61f28bdc7f049930b46bcb92952496b7c8bec043e0523efe93"
+    },
+    {
+      "path": "/usr/bin/par.pl",
+      "hash": "d7a45a3a6034767634ec006b9b4369567ac9c08b54e78f1a2f4632b33546ebf9"
+    },
+    {
+      "path": "/usr/bin/sigdist.d",
+      "hash": "f5435c1961ee78f463bee365eb88c5744eb93869ec9cf4be75357be42aab90df"
+    },
+    {
+      "path": "/usr/bin/ppdhtml",
+      "hash": "16fe6663a31998f0a7cd4fc29b0b4aba901fbfa3c79d485e84177b65aabbd737"
+    },
+    {
+      "path": "/usr/bin/erb",
+      "hash": "55b4597ae7a7acce8db5dcbc5961b487c95365eb2e97143153445b9884b5baa7"
+    },
+    {
+      "path": "/usr/bin/dappprof",
+      "hash": "b5e506c74d7a493a759ac2e781ae6899404bf2b992a1d04b4e14d17bca86b258"
+    },
+    {
+      "path": "/usr/bin/openssl",
+      "hash": "da4b959ec57113e7b4fd1e10da462f712f1ad04511dfcb28d18deed19a671d06"
+    },
+    {
+      "path": "/usr/bin/yamlpp-load",
+      "hash": "a49b369bae7085b5c57dc5bc615da4b76bbc2b26c7c266371ea784d980d780be"
+    },
+    {
+      "path": "/usr/bin/drutil",
+      "hash": "8a722ab2dcc69ef2e587843edde8f01f90cd381a18867be3a42a26fc7dc055d9"
+    },
+    {
+      "path": "/usr/bin/jinfo",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/splain",
+      "hash": "133ce41cc448d386215b07182b965c8d0f9e206d395e58ad29c96302604f2ba7"
+    },
+    {
+      "path": "/usr/bin/pmset",
+      "hash": "9bcfabb93129b1b52570ec75ab99aed2d6cd857caa51a2613ac155649e85ec66"
+    },
+    {
+      "path": "/usr/bin/xmlcatalog",
+      "hash": "cdbb3f6e8515f04e2a45f17d999141198fe188f8af2220a433d7a29b30a41b8b"
+    },
+    {
+      "path": "/usr/bin/zcmp",
+      "hash": "7f061880585e93e99a52fe1ea18e6f1c179b6ec659992e67b5fe69ad50497065"
+    },
+    {
+      "path": "/usr/bin/rwsnoop",
+      "hash": "d9e43fe6472fb282c063d3b7f28a5dc63a761339a37a5d5bb3cef8069da22cb7"
+    },
+    {
+      "path": "/usr/bin/jstatd",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/lpr",
+      "hash": "798fa80d2f4bdf7838fe741b663263916a371ccfd1da20a62352e5a2e36b1995"
+    },
+    {
+      "path": "/usr/bin/layerutil",
+      "hash": "7cd7e6e7e0240df9382cd3d82d51025f36c85c27b681957bd13409c7107d7989"
+    },
+    {
+      "path": "/usr/bin/dbicadmin5.34",
+      "hash": "d1e82a8d91f93bbc2f9283fc57886c0cea79a625382d443a36546e6dd4458fe8"
+    },
+    {
+      "path": "/usr/bin/snmptest",
+      "hash": "687eecd6d0b8cb8002b2867cf29bdc14869f06db55fb3eef7f29dee893a119c7"
+    },
+    {
+      "path": "/usr/bin/mib2c-update",
+      "hash": "697d16e6471828a5a4cacc8dc53d0f931ff03d4f4231a5c1ee340a9d23a26c39"
+    },
+    {
+      "path": "/usr/bin/creatbyproc.d",
+      "hash": "723c54300094d468944a150e0239f1535010a2f4993653b9ac48bca78f79e017"
+    },
+    {
+      "path": "/usr/bin/fdesetup",
+      "hash": "af7ad163f0cda1db71624bba0bd607a8ca053379dbd0561cbd271174fde49637"
+    },
+    {
+      "path": "/usr/bin/flex",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/hostinfo",
+      "hash": "6cfa611d17673716979def197cb1874fe2be4422276bb0174fda42c51fafca63"
+    },
+    {
+      "path": "/usr/bin/jcontrol",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/lpstat",
+      "hash": "62014e79ba767d0d44c0c3ad82bba97c71da6795e53b400ee6405baa22294173"
+    },
+    {
+      "path": "/usr/bin/SetFile",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/pod2html",
+      "hash": "1e90ab0bc7fc5779b93ee0b3d6f4a84d7256859322c16ca82b87657a3c7b3f78"
+    },
+    {
+      "path": "/usr/bin/ibv_devinfo",
+      "hash": "65dc3eafea686388a26e96c5be1fa35e764b37331f5b17c9f245fb9e46db3f53"
+    },
+    {
+      "path": "/usr/bin/yamlpp-events5.34",
+      "hash": "6705b4852310bd8309d3d85d594d04dd18105e7664b6a669d0f3afc382a43424"
+    },
+    {
+      "path": "/usr/bin/rdoc",
+      "hash": "db8af0e8ffbbcd3c1582cb258cefdc6f1120a398794a0afe26bf942967bfd13a"
+    },
+    {
+      "path": "/usr/bin/uptime",
+      "hash": "619eb870c982c58a7cefbaec49c10c804b1ce4a0e061b0bfeccbffef17d54925"
+    },
+    {
+      "path": "/usr/bin/pidpersec.d",
+      "hash": "365fbfba9dbc4e6f8a01787fa2b87693df51eb6c347e8ae86ba14a3c8274b6ee"
+    },
+    {
+      "path": "/usr/bin/avmediainfo",
+      "hash": "4b77754607489604987cb6ea6de0ad2b2c88938b71261be9ba49c07c8b5e289a"
+    },
+    {
+      "path": "/usr/bin/modelcatalogdump",
+      "hash": "7742632fe1ee96383a85410e1efaf07f45b9a16a8fbf52d78f5295b9357e61fe"
+    },
+    {
+      "path": "/usr/bin/false",
+      "hash": "0f2121a1cef3975354e319c58f290ab9e1b4f7d22eac0ed4945fae6526b355e9"
+    },
+    {
+      "path": "/usr/bin/zegrep",
+      "hash": "76c174b94c1bff61f28bdc7f049930b46bcb92952496b7c8bec043e0523efe93"
+    },
+    {
+      "path": "/usr/bin/memory_pressure",
+      "hash": "17bc9cdf94001734e0a8e8fc9724302cac66ecc73130353cbedfee3275c7c65d"
+    },
+    {
+      "path": "/usr/bin/uncompress",
+      "hash": "c2e461b27668bd63c4cbd85649f7c4ceb63fc2447bf657d231e0d9fd4f42a055"
+    },
+    {
+      "path": "/usr/bin/lwp-request",
+      "hash": "f8b9706e49fc6faabec5b8fe6f77b3d1665c5e11b84251029b83ac92d07e8dcd"
+    },
+    {
+      "path": "/usr/bin/ncurses5.4-config",
+      "hash": "b8f3c3bf68aa7c4cf776b7766b9c043d3c4b32f15e48c6a7a0a76a3cf95a5094"
+    },
+    {
+      "path": "/usr/bin/sampleproc",
+      "hash": "53dd56f378e500505bfa2b02a88a045c7430396820e62b011f10e588898d5306"
+    },
+    {
+      "path": "/usr/bin/db_recover",
+      "hash": "21ac4def053d686a8618933e39831eb08f4785bcb6c74a58d1909bb9a7182385"
+    },
+    {
+      "path": "/usr/bin/dyld_usage",
+      "hash": "79339410cd8f6b605a42ef7ee8dc09d64283c2330c69cd94f305ff4f6612ac22"
+    },
+    {
+      "path": "/usr/bin/nmedit",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/filebyproc.d",
+      "hash": "d3ad85e3c17ea916fc44e1395e7e0a4dde29d9ecd94da592328e55ccf1e8d959"
+    },
+    {
+      "path": "/usr/bin/bison",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/jdeps",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/productbuild",
+      "hash": "7c96be8b52b6cf49a9546492e7a289822a46649a73558dcb9e9082cc40720697"
+    },
+    {
+      "path": "/usr/bin/zipinfo",
+      "hash": "2f85f6463d7ccbb013c3db8349573c3ce9328196b8f919777cf0d9e13bd19969"
+    },
+    {
+      "path": "/usr/bin/diffstat",
+      "hash": "b9b7be3fd531bb90ba0edf63d203d52fbdc2f1fb0b51e7ff43b98a3f2a0cde7d"
+    },
+    {
+      "path": "/usr/bin/yamlpp-load5.34",
+      "hash": "a49b369bae7085b5c57dc5bc615da4b76bbc2b26c7c266371ea784d980d780be"
+    },
+    {
+      "path": "/usr/bin/login",
+      "hash": "623eb3e53b09eb5318f38d2e59b5670c8cbfe217013c7956ee85f09cd2a98661"
+    },
+    {
+      "path": "/usr/bin/db_dump",
+      "hash": "d24a1d52b92dc2cb62c813d9675616bdf58d4a904d34ba2b1a3f5c7067b59a7c"
+    },
+    {
+      "path": "/usr/bin/cpuctl",
+      "hash": "a0669daff96f969267145ce1e02f5782e4889700b9dbbb9e3108cea1dc885812"
+    },
+    {
+      "path": "/usr/bin/cpu_profiler.d",
+      "hash": "2f02757c400daa691b46433a0fff12f5f920ce63bdac491cd849084a73c42522"
+    },
+    {
+      "path": "/usr/bin/which",
+      "hash": "3c8dc33bd21d5dc8c0857b4c430cc5e1636aae21c496b25e344dcb5867bdf19b"
+    },
+    {
+      "path": "/usr/bin/bundler",
+      "hash": "a4d0410fcb15c6a8f0ab53a7c57f152edb2041114fb2345c4f353d7b0e438c8a"
+    },
+    {
+      "path": "/usr/bin/iopattern",
+      "hash": "f5b11766213c06c77bfc2c3c489ed7d488f65ea5db48d63714df4569583cf1c0"
+    },
+    {
+      "path": "/usr/bin/finger",
+      "hash": "4d27446f8baefc15248c7f8acebca069ed2a8adf6bf519fdd496c5a4c6ee210e"
+    },
+    {
+      "path": "/usr/bin/mig",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/sntp",
+      "hash": "bc1d548928ddc6a72419238d7e446df0931dc46228c68e46d34da86791627b9f"
+    },
+    {
+      "path": "/usr/bin/open",
+      "hash": "2b1a3451fc9e967e3cd6f65ade8f2dad8df7e5aa353cedd60cad532b3cd9f30f"
+    },
+    {
+      "path": "/usr/bin/GetFileInfo",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/kmutil",
+      "hash": "7571c687a8c30eda332e0786a4abc0e8e045b7d7d14b0b7969cf274586dd9fcc"
+    },
+    {
+      "path": "/usr/bin/localedef",
+      "hash": "1b8424198900194618752733203fb0bcceabc4d42c941fc4bb02580d6960fb3c"
+    },
+    {
+      "path": "/usr/bin/ruby",
+      "hash": "0d0d55438c2fc7eab0cafc27e4df88776e3219b37c393de3d43f085ab7f3ce78"
+    },
+    {
+      "path": "/usr/bin/stringdups",
+      "hash": "b1031ccf6477bbf785cd91c4d1afdacc317e8910cdd23467df22ad05ee5b30d4"
+    },
+    {
+      "path": "/usr/bin/htmltree",
+      "hash": "2b9d1ef6d8e4e1c3fe2b02c01e4be3b921392c074169902ef7e40fc85c980f0e"
+    },
+    {
+      "path": "/usr/bin/git",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/tr",
+      "hash": "be7e428ad7030f88b5eba0098b14ef68ecb3193d4f9670225cd05b54b7436b86"
+    },
+    {
+      "path": "/usr/bin/banner",
+      "hash": "7d78a6f86d36456a721b09dac8beb517a79822ec2bf69fa04678ab52ee46bc47"
+    },
+    {
+      "path": "/usr/bin/leave",
+      "hash": "0e6b5c0d56c883ebf219da967403fe465db9a642aa94a3d374a96c1368b66e21"
+    },
+    {
+      "path": "/usr/bin/jconsole",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/paste",
+      "hash": "0d8a11726dd5239be94783bb4321bfd11cb93d90b46f457d995ca131200c425d"
+    },
+    {
+      "path": "/usr/bin/bzip2",
+      "hash": "8da4d460440e876d81875d814f3a0eead38ba0fb94fef81a9be87560a897dee1"
+    },
+    {
+      "path": "/usr/bin/uucp",
+      "hash": "3ff3029c97a393612dd17ec34c8f2cc118d6eb1b50491234d25a8a5acd50d663"
+    },
+    {
+      "path": "/usr/bin/passwd",
+      "hash": "ee9fcd6a60339ad11311a66f567f605e5c6d3ede6f99becb26dafd8411b85343"
+    },
+    {
+      "path": "/usr/bin/moose-outdated5.34",
+      "hash": "359597af7b1c1691ec0502184b006aa5ffa49915be504284d1383bcca11a4e96"
+    },
+    {
+      "path": "/usr/bin/uuidgen",
+      "hash": "aed66b067449883df23dc951fb7bc6d8ae77f0d18461a15589045fae5426458b"
+    },
+    {
+      "path": "/usr/bin/install_name_tool",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/cmpdylib",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/pod2text5.34",
+      "hash": "3d1271451a600279fe8aaa0e7d58d7fdf4385a8fb025962709db1d540376a0a5"
+    },
+    {
+      "path": "/usr/bin/devicectl",
+      "hash": "8d103f7071380be792a20a7fe471f3455ae3b58521183352b58e6df41f4db0d8"
+    },
+    {
+      "path": "/usr/bin/zfgrep",
+      "hash": "7290aefe24a12ba49faafcfba134a6a5279ba19a38005807f9ee6cad8c05ce04"
+    },
+    {
+      "path": "/usr/bin/aea",
+      "hash": "dfe450a3e7356a5a940d5f32e4f933555b092eb26b47a66e6b621bb20ffcf5d5"
+    },
+    {
+      "path": "/usr/bin/zipdetails",
+      "hash": "9fa9f28c16d9932340b1888b910dfb28d038b11ab29d88f76f3bf1a7856dfd37"
+    },
+    {
+      "path": "/usr/bin/look",
+      "hash": "a9ce3b7368f08cdfbe2b2c3e8ce9d872b717a9cdb256a81da1b3c7c8159e15ac"
+    },
+    {
+      "path": "/usr/bin/col",
+      "hash": "9c959a15f62672cc3a4148a16048066616089496b2265dea358f3d460f83f8f3"
+    },
+    {
+      "path": "/usr/bin/dscacheutil",
+      "hash": "db78070410683eeb53321f7f80346acc244f312b064a7683b2a1818b4b79ca04"
+    },
+    {
+      "path": "/usr/bin/usdzip",
+      "hash": "b2a20cd00d81221c230423ee883b41eafaffe1cc600ef271a8f25e23f8712429"
+    },
+    {
+      "path": "/usr/bin/zforce",
+      "hash": "8077aa5dfe054acfcf4fd7c5f757e17344397f9555c95aed15cac1d2c17cc90f"
+    },
+    {
+      "path": "/usr/bin/lwp-mirror",
+      "hash": "88507cede987da1cd61ab0d7782e18ac8468910b00137086f45380195f12924e"
+    },
+    {
+      "path": "/usr/bin/malloc_history",
+      "hash": "b6fb6aac146c9c11ca3dfc1b8be15765e5e41b2bf47c720ebcb84d9b4cb05f5e"
+    },
+    {
+      "path": "/usr/bin/cpio",
+      "hash": "0a30273bdddf10648fdb81fded7519199f04e5e9f9f239cf326896e1ca0e3f58"
+    },
+    {
+      "path": "/usr/bin/h2ph5.34",
+      "hash": "86c19c01835bba602e1e954e48b69846286c9deaf453ea30d63d72190832bdb0"
+    },
+    {
+      "path": "/usr/bin/nohup",
+      "hash": "8fa95632b67f6c16f224d2cd9ca07eb7b87e1736569cb4e459f871fbab8a6d45"
+    },
+    {
+      "path": "/usr/bin/kcc",
+      "hash": "102ef2fdefb282a93b29cf13466d198c1b8cd639cf7164c1440cc7e78bf1d787"
+    },
+    {
+      "path": "/usr/bin/ulimit",
+      "hash": "6b84445c57c474382fd4083629b8308d189e10a9a2bbd66c06b288e56b5b08a8"
+    },
+    {
+      "path": "/usr/bin/rails",
+      "hash": "c3a2ae0f82b1084ccde42bb68a8e7b35e9e593779ac37138e76f7e7ee3a41d1a"
+    },
+    {
+      "path": "/usr/bin/bspatch",
+      "hash": "bced7544311dd36c53aad4187d6afbf5d67e3d13c2edce950f53c7ba8a00bbb3"
+    },
+    {
+      "path": "/usr/bin/hotspot.d",
+      "hash": "05894cc0f0b96e6d61e715502c42bdafa026c65fbc4b4ca3935f444740c2af06"
+    },
+    {
+      "path": "/usr/bin/xsubpp5.34",
+      "hash": "c8c0f265dd2f3f247f179a5464bddfe6391b9e06996e961fa15c51c2e26e39a3"
+    },
+    {
+      "path": "/usr/bin/gatherheaderdoc",
+      "hash": "a961f78075d8e7621ef4f5d764c64ef8a41bf66c0a98ab5cb6ca39b85ce31c93"
+    },
+    {
+      "path": "/usr/bin/ppdi",
+      "hash": "0500f5b54ca0e314beae511a9202d25836e9522835f790a2c4bf20f72d8908a8"
+    },
+    {
+      "path": "/usr/bin/pcap-config",
+      "hash": "c262059b0b412b9737a6f365a680eac7a8a74a90e8134b7cbdeb0f34e28cd3f7"
+    },
+    {
+      "path": "/usr/bin/jpackage",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/avmetareadwrite",
+      "hash": "8992521b6e50433d72a69d82a3bea2c89ba98fd08ef50d27a189b86099ef31cd"
+    },
+    {
+      "path": "/usr/bin/gen_bridge_metadata",
+      "hash": "a666ee710bf74227133407750230e98416caeadf3060cc6bf8662c7c5adca99f"
+    },
+    {
+      "path": "/usr/bin/parl5.34",
+      "hash": "f47b82b146c347236a7f37b5025a5c36d15f2868d53cf4cdd625c9c683bb0930"
+    },
+    {
+      "path": "/usr/bin/gem",
+      "hash": "33d3de0ce69f659ed5e3d0c7bfd3c56f2b57729e2785f09957356bd0f026b9bc"
+    },
+    {
+      "path": "/usr/bin/opendiff",
+      "hash": "3cdacfccb9593a6fa562b6f411c59cc1e2a1a0c13742e3021ee0bb8d4e23d79d"
+    },
+    {
+      "path": "/usr/bin/talk",
+      "hash": "8bfa6e7b8d62085c957c46fa7dcd9eb8a9ae9aaefc668d8b2414bdbffb797c9c"
+    },
+    {
+      "path": "/usr/bin/stz",
+      "hash": "06b92b42e472a25aea5acd3d6d5f3d4adcbca5f0fd1d36441ffa6b72116c7c51"
+    },
+    {
+      "path": "/usr/bin/expect",
+      "hash": "54fcbf82eb80ce53e3a150084551e24987141a0af082f42d2639e3907dba4143"
+    },
+    {
+      "path": "/usr/bin/jimage",
+      "hash": "d004f5e4da99c40bcf1fee3bb944280c9454303f0fd64007ea258c1826ed8496"
+    },
+    {
+      "path": "/usr/bin/lockstat",
+      "hash": "b50b8ae3296572611fc5398ce4ed7959425dbb628eb33d8d5f02a9d2368fbcca"
+    },
+    {
+      "path": "/usr/bin/dapptrace",
+      "hash": "2f323f7229d8e3b2a3fa26b0abae47c933805a2dbe0ff77365b86fcd01640154"
+    },
+    {
+      "path": "/usr/bin/xattr",
+      "hash": "a4891287e560225be676dc3eb9e32f058ab55a705fc6ff0d388b6e75802d63cc"
+    },
+    {
+      "path": "/usr/bin/w",
+      "hash": "619eb870c982c58a7cefbaec49c10c804b1ce4a0e061b0bfeccbffef17d54925"
+    },
+    {
+      "path": "/usr/bin/gunzip",
+      "hash": "0adacd0cd979d830cb5e70d26638339be0746a3f22a832c181ece63751a72b30"
+    },
+    {
+      "path": "/usr/local/bin/estimator_ckpt_converter",
+      "hash": "c05d5550746e884f587e0d4eaf369c107a51816a235e08f8ca4934c6af42fed2"
+    },
+    {
+      "path": "/usr/local/bin/import_pb_to_tensorboard",
+      "hash": "3c7b3482bdf53854d33554a54ac2a824b5f9ef6e64ec97e8cb1082e45043035f"
+    },
+    {
+      "path": "/usr/local/bin/pyrsa-sign",
+      "hash": "57ddd937f34cc48bfb295aba45c14c1a61473b34698fadf8f20072e156b44be1"
+    },
+    {
+      "path": "/usr/local/bin/markdown_py",
+      "hash": "3b12f9b829fdee7dcd70796a04439c9070ec47481c3a387150bb527f1e3bebcb"
+    },
+    {
+      "path": "/usr/local/bin/kubelogin",
+      "hash": "38f8bd312eac9e016d95d94d8124bd52eddc4ac498f7a8e9e8a9e177ee869d74"
+    },
+    {
+      "path": "/usr/local/bin/texi2pdf",
+      "hash": "93fafa11310722900c521df7a831faa5827b542bad7feebbf2b3d67dc2c01ffe"
+    },
+    {
+      "path": "/usr/local/bin/nodeenv",
+      "hash": "7ee3e2496d0e997f959c5079956f13df55c30a539bb261c8fd7be53be476f06d"
+    },
+    {
+      "path": "/usr/local/bin/toco_from_protos",
+      "hash": "f2a9236d9c59f89afef6dd0e883af911dd8063098b35fb13dde9146d6d2e614e"
+    },
+    {
+      "path": "/usr/local/bin/wish8.6",
+      "hash": "55641eaebb4d1139d631b7025696bbff800e3bbc5bd2e047083c59378dad1335"
+    },
+    {
+      "path": "/usr/local/bin/pyrsa-priv2pub",
+      "hash": "05cf64b18861a68ea0193319303c08d41fb32219dabe87926961c1c7e859a252"
+    },
+    {
+      "path": "/usr/local/bin/identify-cli",
+      "hash": "efa1287b23100c2841ab6356f42831bcb2eac550611dbee7520bedf818321f1d"
+    },
+    {
+      "path": "/usr/local/bin/VBoxAudioTest",
+      "hash": "b544aace6507f75a1cae49e6826d6f92377a8745088510fbfd70f185bac8a1d6"
+    },
+    {
+      "path": "/usr/local/bin/VBoxManage",
+      "hash": "c5fa68dee30cce5731b33ae1a1ea2498d87a29b9655d165234097a0d44670586"
+    },
+    {
+      "path": "/usr/local/bin/VBoxHeadless",
+      "hash": "93c2da265702792558e4be4564baeff22aefe10a9997279347a743cc70d13ed5"
+    },
+    {
+      "path": "/usr/local/bin/pod2texi",
+      "hash": "b2f012eadaec1d6ecfec91191bff267485f9571df1e3b15b57b19a11246a7bc6"
+    },
+    {
+      "path": "/usr/local/bin/tclsh8.6",
+      "hash": "d8ff1dadeb3cd4247ff4c7adc4277090f8ed7b85712e61c0e65010c54761d144"
+    },
+    {
+      "path": "/usr/local/bin/cookiecutter",
+      "hash": "1dc2c44e602b81cb344136788a8433e0e8c8b4fa10439c32d4c025cada55da99"
+    },
+    {
+      "path": "/usr/local/bin/slugify",
+      "hash": "da622eacf167db81a7fceb0c00bcd57ee0d324ecc50f6cdc67ddb2002a2ded3c"
+    },
+    {
+      "path": "/usr/local/bin/google-oauthlib-tool",
+      "hash": "fdfda1a24c01330f6b5565037486edc98c7853d2c65eb44789701c5c41206080"
+    },
+    {
+      "path": "/usr/local/bin/VirtualBox",
+      "hash": "f7969c337e9f0879bbf03d95d856b49950f2761369d24bbb53c213b006d2fd33"
+    },
+    {
+      "path": "/usr/local/bin/tf_upgrade_v2",
+      "hash": "a22abfd2d431d21ed36c452ecc8938927ceaf85501dfac993d45be8ef0981fa4"
+    },
+    {
+      "path": "/usr/local/bin/chardetect",
+      "hash": "1d5c23218272bdcafaef83025a5bf10f5b014b6291b3cbcad411e8cdae394e02"
+    },
+    {
+      "path": "/usr/local/bin/vboxwebsrv",
+      "hash": "06ae8066777efe1b2b930c2005af757375a30f14830a1ad21a789a924eb858b7"
+    },
+    {
+      "path": "/usr/local/bin/VBoxDTrace",
+      "hash": "d33abbd32e4d6faef5b273db6071c1ab63dde973ec39b311e1bc430a2ce6a788"
+    },
+    {
+      "path": "/usr/local/bin/texindex",
+      "hash": "65a2e2dfbedddc4efe2626a475f60af1df6e689667c902f2ae6d821d3547489c"
+    },
+    {
+      "path": "/usr/local/bin/fastapi_template",
+      "hash": "00eb5cb64d294ea835c247059b8ba4eec79b33f171a30580b854f4f5bfabbc51"
+    },
+    {
+      "path": "/usr/local/bin/dialog",
+      "hash": "2c3c8befbbfbd9cebfe904d93591b1cdb8dfad9ca8c50a8aadf3a1325a30eda3"
+    },
+    {
+      "path": "/usr/local/bin/pyrsa-keygen",
+      "hash": "dfc212608038f05c7241a83e903d0b294f202758dcdabe660e38d59213a81238"
+    },
+    {
+      "path": "/usr/local/bin/f2py",
+      "hash": "28d0be848baf6dc179372ea707f0e33fcef0ff8cbf2baf9eaae1354af1f956f6"
+    },
+    {
+      "path": "/usr/local/bin/info",
+      "hash": "6c16036d5195a8060eb63029bc30a8cd696aeff6ee108a1b7d27050f46f16d76"
+    },
+    {
+      "path": "/usr/local/bin/vboximg-mount",
+      "hash": "f65851b83676676d9344a3e46b87a2d2fd4e289bd7210a0b567ed0fc34c486b3"
+    },
+    {
+      "path": "/usr/local/bin/simple-term-menu",
+      "hash": "cc046e2c6070cd1bcf206bdb5978c92ba2cbebc0c7257d9fe2bc01d67d7259f2"
+    },
+    {
+      "path": "/usr/local/bin/mist",
+      "hash": "e0f2616d9954afd9c584664444f28c0aa72556d5e7965f9d231f7e534689b155"
+    },
+    {
+      "path": "/usr/local/bin/vbox-img",
+      "hash": "57e00a90e2ff62f911372c408607234a24cfdeeb9fe8336fc600ff41612ce08a"
+    },
+    {
+      "path": "/usr/local/bin/f2py3.9",
+      "hash": "28d0be848baf6dc179372ea707f0e33fcef0ff8cbf2baf9eaae1354af1f956f6"
+    },
+    {
+      "path": "/usr/local/bin/pyrsa-decrypt",
+      "hash": "76b992ee56a1cb053093dd7a08f66c55b519bdab7322d4edd472e6e731947eea"
+    },
+    {
+      "path": "/usr/local/bin/VBoxBalloonCtrl",
+      "hash": "e9caa1c129506ffb2b2b12410f9b6e6cb58f75c46260ffa5018edb35a21411e3"
+    },
+    {
+      "path": "/usr/local/bin/pygmentize",
+      "hash": "c0493f5131149cc502af393426ca6aaa9766c85e614fddf1ff8cf614f4835488"
+    },
+    {
+      "path": "/usr/local/bin/VBoxAutostart",
+      "hash": "ad17fc70bc51ab8521bea2220762e8ad8da5873fb0bd95a14355deb6fda3645e"
+    },
+    {
+      "path": "/usr/local/bin/tensorboard",
+      "hash": "7f0b5e6257eadc47ec557ccf7e2b751323773caf584bc9ef33ec790f0dcd5834"
+    },
+    {
+      "path": "/usr/local/bin/texi2dvi",
+      "hash": "0f0a456c939940453e30668f23f5dbf9151d56088117ef03eec817d3e229f29d"
+    },
+    {
+      "path": "/usr/local/bin/processing-java",
+      "hash": "aa858d5464687d1caf432b15ca978ccc2c7fe551cb11253b604c479b42f4d9fa"
+    },
+    {
+      "path": "/usr/local/bin/pyrsa-encrypt",
+      "hash": "98bc70c0ac39454eb1f26b66574e5767903082aaa623fd7132e5b88e9b7a62aa"
+    },
+    {
+      "path": "/usr/local/bin/VBoxBugReport",
+      "hash": "b027c99e9a139b82cf4a37cc43f0fa27a0ddeddab31c0f6c57c3645462fd463f"
+    },
+    {
+      "path": "/usr/local/bin/glab",
+      "hash": "1b7a2552e4802c86ff4e71e50adb163546e543f6772fd902e9a596ae51cd007f"
+    },
+    {
+      "path": "/usr/local/bin/pre-commit-validate-manifest",
+      "hash": "579b6b220c0d8138ed2185d4df75b5d41bf9952995998e571ec00281eccc2387"
+    },
+    {
+      "path": "/usr/local/bin/tflite_convert",
+      "hash": "8ef98c79db4239d396a63492cca6342337d05a1aa3b0f36cf1dd934273e6c7d9"
+    },
+    {
+      "path": "/usr/local/bin/pdftexi2dvi",
+      "hash": "93fafa11310722900c521df7a831faa5827b542bad7feebbf2b3d67dc2c01ffe"
+    },
+    {
+      "path": "/usr/local/bin/VirtualBoxVM",
+      "hash": "9d0c568ee7e95946f512e90fa461035c7d68db7e327a426f7798ba456910c1bd"
+    },
+    {
+      "path": "/usr/local/bin/texi2any",
+      "hash": "f760d4fe60209fd29096611e8dd9d8c42c2fbf742e481ee52431649f71fceb2b"
+    },
+    {
+      "path": "/usr/local/bin/normalizer",
+      "hash": "02da865008cab6b417520d81bda5757316c5ddbab2d06eda7b98f1928fafa61c"
+    },
+    {
+      "path": "/usr/local/bin/pre-commit-validate-config",
+      "hash": "26e12bebb81d04976281ed6f802513d8400aa712ca4cbafbc72b71f517026813"
+    },
+    {
+      "path": "/usr/local/bin/virtualenv",
+      "hash": "09bd8280c2b687fdacc7a0337510dcac462ecf60d0a0b21a4a3bff93e577a2fe"
+    },
+    {
+      "path": "/usr/local/bin/sqlite3_analyzer",
+      "hash": "219166aec97c880fea87e229b214cdbc9a681021af52c4dab983c838ff4229d8"
+    },
+    {
+      "path": "/usr/local/bin/saved_model_cli",
+      "hash": "3f144c754453a86c524d770cbe99794a75089340c2b468b8d29cec189dbaa5d8"
+    },
+    {
+      "path": "/usr/local/bin/f2py3",
+      "hash": "28d0be848baf6dc179372ea707f0e33fcef0ff8cbf2baf9eaae1354af1f956f6"
+    },
+    {
+      "path": "/usr/local/bin/authchanger",
+      "hash": "25b8017d8d9c1122ba381e602e47329b7c53df44a09bb1a7e731e4454f7ffdbb"
+    },
+    {
+      "path": "/usr/local/bin/kubectl",
+      "hash": "c4da86e5c0fc9415db14a48d9ef1515b0b472346cbc9b7f015175b6109505d2c"
+    },
+    {
+      "path": "/usr/local/bin/cdswctl",
+      "hash": "15b48ee6564cf4d6c899938a5bdc9c7d35007767827d6308799524d393420c64"
+    },
+    {
+      "path": "/usr/local/bin/pre-commit",
+      "hash": "a4ac3c5ae13d1422c8af1c35267970cdd89ae9fa991a996c62bd23762bbb123a"
+    },
+    {
+      "path": "/usr/local/bin/toco",
+      "hash": "8ef98c79db4239d396a63492cca6342337d05a1aa3b0f36cf1dd934273e6c7d9"
+    },
+    {
+      "path": "/usr/local/bin/pyrsa-verify",
+      "hash": "6b83a07cc88955291dddad073449592c6770a96d42d3b00e9ccd15c50d0b078d"
+    },
+    {
+      "path": "/usr/local/bin/cmark",
+      "hash": "fb9ba3f7af5a59715b5b6e28597c6b7a1d4db76f7251fd992897569ba792caaf"
+    },
+    {
+      "path": "/usr/local/bin/.keepme",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "/usr/local/bin/gitlab-runner",
+      "hash": "d96c2b09d45a2a6d6c94ff1e983427a2f0dc33fd5c8b0f71c14a74f8bcc67ec8"
+    },
+    {
+      "path": "/usr/local/bin/VBoxVRDP",
+      "hash": "93c2da265702792558e4be4564baeff22aefe10a9997279347a743cc70d13ed5"
+    },
+    {
+      "path": "/usr/local/bin/install-info",
+      "hash": "9d03f9c40553d51ad3b3e386950c0c79d45c0d446da36335ed4758b2270b9f68"
+    },
+    {
+      "path": "/usr/local/bin/RemoteUpdateManager",
+      "hash": "071c9f7d5e1d14eaa8ff4643e9209f56f4d2f2c5af64b590f562ebead10ce43f"
+    }
+  ],
+  "lockfiles": [
+    {
+      "path": "./Cargo.lock",
+      "hash": "a28944c4c26c37b1e8f371d330a9237b8c875cb87a650731d88a25f6763d9931"
+    }
+  ],
+  "meta": {
+    "created_at": "2026-05-08T18:35:01.538224000Z",
+    "signature": "nOo4WUD13JNJaxYkOgfB+FuZn283WSZ6QXogwNaLO/c="
+  }
+}
