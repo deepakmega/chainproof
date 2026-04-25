@@ -109,7 +109,9 @@ impl DiffReport {
         if !self.changed_binaries.is_empty() {
             lines.push("Changed binaries:".to_string());
             for (path, old_hash, new_hash) in &self.changed_binaries {
-                lines.push(format!("  ~ {} ({}...{} )", path, &old_hash[..8], &new_hash[..8]));
+                let old_prefix = &old_hash[..old_hash.len().min(8)];
+                let new_prefix = &new_hash[..new_hash.len().min(8)];
+                lines.push(format!("  ~ {} ({}...{} )", path, old_prefix, new_prefix));
             }
         }
 
@@ -130,7 +132,9 @@ impl DiffReport {
         if !self.changed_lockfiles.is_empty() {
             lines.push("Changed lockfiles:".to_string());
             for (path, old_hash, new_hash) in &self.changed_lockfiles {
-                lines.push(format!("  ~ {} ({}...{} )", path, &old_hash[..8], &new_hash[..8]));
+                let old_prefix = &old_hash[..old_hash.len().min(8)];
+                let new_prefix = &new_hash[..new_hash.len().min(8)];
+                lines.push(format!("  ~ {} ({}...{} )", path, old_prefix, new_prefix));
             }
         }
 

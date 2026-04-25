@@ -82,7 +82,8 @@ fn cmd_diff(args: &[String]) -> Result<()> {
     let (baseline_path, current_path) = if args.len() >= 2 && args[0] == "--baseline" {
         (args[1].clone(), BASELINE_PATH.to_string())
     } else if args.is_empty() {
-        (BASELINE_PATH.to_string(), BASELINE_PATH.to_string())
+        // When no args, compare baseline to a fresh live snapshot
+        (BASELINE_PATH.to_string(), "".to_string())
     } else {
         eprintln!("Usage: chainproof diff [--baseline PATH]");
         std::process::exit(1);
@@ -91,15 +92,16 @@ fn cmd_diff(args: &[String]) -> Result<()> {
     let baseline_json = fs::read_to_string(&baseline_path)?;
     let baseline: types::Snapshot = serde_json::from_str(&baseline_json)?;
 
-    let current_json = if current_path == BASELINE_PATH && Path::new(BASELINE_PATH).exists() {
-        fs::read_to_string(BASELINE_PATH)?
-    } else if current_path == BASELINE_PATH {
-        let snap = snapshot::create_snapshot(Path::new("."))?;
-        serde_json::to_string(&snap)?
+    let current = if current_path.is_empty() {
+        // Create fresh snapshot from current directory
+        snapshot::create_snapshot(Path::new("."))?
+    } else if current_path == BASELINE_PATH && Path::new(BASELINE_PATH).exists() {
+        let current_json = fs::read_to_string(BASELINE_PATH)?;
+        serde_json::from_str::<types::Snapshot>(&current_json)?
     } else {
-        fs::read_to_string(&current_path)?
+        let current_json = fs::read_to_string(&current_path)?;
+        serde_json::from_str::<types::Snapshot>(&current_json)?
     };
-    let current: types::Snapshot = serde_json::from_str(&current_json)?;
 
     let diff_report = diff::diff_snapshots(&baseline, &current);
     

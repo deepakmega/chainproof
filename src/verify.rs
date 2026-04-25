@@ -14,6 +14,30 @@ pub struct VerifyResult {
 pub fn verify_against_baseline(baseline_path: &Path, current_dir: &Path) -> Result<VerifyResult> {
     // Load baseline snapshot from baseline_path (JSON)
     let baseline_json = fs::read_to_string(baseline_path)?;
+    
+    // Extract signature from JSON without re-parsing to preserve field order
+    let baseline_obj: serde_json::Value = serde_json::from_str(&baseline_json)?;
+    let signature = baseline_obj["meta"]["signature"]
+        .as_str()
+        .ok_or_else(|| anyhow::anyhow!("Missing signature in baseline"))?
+        .to_string();
+    
+    // Remove signature by string replacement to preserve JSON structure and field order
+    // Replace "signature": "XXX" with "signature": ""
+    let unsigned_json = baseline_json.replace(
+        &format!("\"signature\": \"{}\"", signature),
+        "\"signature\": \"\""
+    );
+    
+    // Verify the baseline signature
+    if !crate::signing::verify(&unsigned_json, &signature, SIGNING_KEY) {
+        return Ok(VerifyResult {
+            passed: false,
+            diffs: vec!["ERROR: Baseline signature verification failed - baseline may be tampered".to_string()],
+        });
+    }
+    
+    // Parse baseline snapshot
     let baseline: Snapshot = serde_json::from_str(&baseline_json)?;
 
     // Create fresh snapshot from current_dir using crate::snapshot::create_snapshot
@@ -68,4 +92,6 @@ pub fn verify_against_baseline(baseline_path: &Path, current_dir: &Path) -> Resu
         diffs,
     })
 }
+
+const SIGNING_KEY: &[u8] = b"chainproof-secret";
 
